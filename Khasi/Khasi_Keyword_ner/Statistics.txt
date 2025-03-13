@@ -1,0 +1,47 @@
+
+=== Dataset Statistics ===
+
+
+Train Set: 
+
+Total Sentences': 3303,
+Total Tokens': 162051,
+Unique Tokens': 13039,
+Tag Counts': {'O': 140458, 'NEL': 1893, 'NETI': 2313, 'NEMI': 3564, 'NEO': 1345, 'NEP': 2047, 'NEF': 1099, 'KEYWORD': 9025, 'NEAR': 301, 'NEU': 3, 'NETE': 3}
+
+
+Validation Set: 
+
+Total Sentences': 412, 
+Total Tokens': 21370, 
+Unique Tokens': 3754, 
+Tag Counts': {'KEYWORD': 1451, 'O': 18288, 'NEAR': 44, 'NEMI': 463, 'NEL': 278, 'NEP': 264, 'NETI': 210, 'NEF': 164, 'NEO': 207, 'NEU': 1}
+
+
+Test Set: 
+
+Total Sentences': 414, 
+Total Tokens': 19680, 
+Unique Tokens': 3680, 
+Tag Counts': {'KEYWORD': 899, 'NEMI': 535, 'O': 16974, 'NEL': 272, 'NETI': 272, 'NEAR': 50, 'NEF': 157, 'NEP': 309, 'NEO': 212}
+
+
+
+
+Combined Dataset::::
+
+Total Sentences: 4129
+Total Tokens: 203101
+Unique Tokens: 14948
+Tag-wise Count:
+  NETI: 2795
+  KEYWORD: 11375
+  O: 175723
+  NEO: 1764
+  NEL: 2443
+  NEP: 2620
+  NEMI: 4562
+  NEF: 1420
+  NEAR: 395
+  NEU: 4
+  NETE: 3

@@ -1,0 +1,31 @@
+Dataset Statistics
+
+Total Data::::::::
+
+Total Sentences: 6617
+Total Tokens: 220379
+Vocabulary Size: 15151
+
+
+Train Data:::::::::
+
+Train Sentences: 5293
+Train Tokens: 176902
+Train Vocabulary Size: 13286
+
+
+
+Test Data::::::::::
+
+Test Sentences: 661
+Test Tokens: 21467
+Test Vocabulary Size: 3659
+
+
+
+Valid Data::::::::::
+
+Validation Sentences: 663
+Validation Tokens: 22010
+Validation Vocabulary Size: 3663
+
