@@ -1,0 +1,1860 @@
+# URL: https://mizoexpress.in/agriculture-minister-in-promotion-of-millets-in-india-programme-khuallian-niin-hmanpui/
+# Crawl Time: 2025-01-18 16:25:41
+# Sentence_id = 1
+# Text = Ani bakah hian Pi Pankaja Borah General Manager / Officer - in - charge , RO NABARD pawhin Buhtun chu chaw tha , mihringte hriselna thlen thei anih piahlamah ruahtui a mamawh tlem avanga enkawl awlsam tak anih thu sawiin ching uar deuh deuh turin kalkhawmte chu a chah bawk a ni .
+1	Ani	_	PRON	_	_	_	_	_	_
+2	bakah	_	ADP	_	_	_	_	_	_
+3	hian	_	CCONJ	_	_	_	_	_	_
+4	Pi	_	PROPN	_	_	_	_	_	_
+5	Pankaja	_	PROPN	_	_	_	_	_	_
+6	Borah	_	PROPN	_	_	_	_	_	_
+7	General	_	NOUN	_	_	_	_	_	_
+8	Manager	_	NOUN	_	_	_	_	_	_
+9	/	_	PUNCT	_	_	_	_	_	_
+10	Officer	_	NOUN	_	_	_	_	_	_
+11	-	_	PUNCT	_	_	_	_	_	_
+12	in	_	ADP	_	_	_	_	_	_
+13	-	_	PUNCT	_	_	_	_	_	_
+14	charge	_	NOUN	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	RO	_	NOUN	_	_	_	_	_	_
+17	NABARD	_	PROPN	_	_	_	_	_	_
+18	pawhin	_	CCONJ	_	_	_	_	_	_
+19	Buhtun	_	NOUN	_	_	_	_	_	_
+20	chu	_	PART	_	_	_	_	_	_
+21	chaw	_	NOUN	_	_	_	_	_	_
+22	tha	_	ADJ	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	mihringte	_	NOUN	_	_	_	_	_	_
+25	hriselna	_	NOUN	_	_	_	_	_	_
+26	thlen	_	VERB	_	_	_	_	_	_
+27	thei	_	VERB	_	_	_	_	_	_
+28	anih	_	VERB	_	_	_	_	_	_
+29	piahlamah	_	NOUN	_	_	_	_	_	_
+30	ruahtui	_	NOUN	_	_	_	_	_	_
+31	a	_	AUX	_	_	_	_	_	_
+32	mamawh	_	ADJ	_	_	_	_	_	_
+33	tlem	_	ADJ	_	_	_	_	_	_
+34	avanga	_	ADP	_	_	_	_	_	_
+35	enkawl	_	VERB	_	_	_	_	_	_
+36	awlsam	_	VERB	_	_	_	_	_	_
+37	tak	_	ADV	_	_	_	_	_	_
+38	anih	_	VERB	_	_	_	_	_	_
+39	thu	_	NOUN	_	_	_	_	_	_
+40	sawiin	_	VERB	_	_	_	_	_	_
+41	ching	_	VERB	_	_	_	_	_	_
+42	uar	_	NOUN	_	_	_	_	_	_
+43	deuh	_	ADV	_	_	_	_	_	_
+44	deuh	_	ADV	_	_	_	_	_	_
+45	turin	_	ADP	_	_	_	_	_	_
+46	kalkhawmte	_	NOUN	_	_	_	_	_	_
+47	chu	_	PART	_	_	_	_	_	_
+48	a	_	AUX	_	_	_	_	_	_
+49	chah	_	VERB	_	_	_	_	_	_
+50	bawk	_	VERB	_	_	_	_	_	_
+51	a	_	PRON	_	_	_	_	_	_
+52	ni	_	VERB	_	_	_	_	_	_
+53	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/bana-kaih-policy-hnuaiah-kuthnathawktute-tan-hamthatna-a-awm-dawn-cm/
+# Crawl Time: 2025-01-18 16:25:57
+# Sentence_id = 2
+# Text = Mizoram hmasawnna tura sawrkar ruahmanna sawiin mipuite taihmakna ram , hlawhtlin tuma bei tak tak tamna ram hi ram changkang leh hmasawn an ni zel a .
+1	Mizoram	_	PROPN	_	_	_	_	_	_
+2	hmasawnna	_	NOUN	_	_	_	_	_	_
+3	tura	_	ADP	_	_	_	_	_	_
+4	sawrkar	_	NOUN	_	_	_	_	_	_
+5	ruahmanna	_	NOUN	_	_	_	_	_	_
+6	sawiin	_	VERB	_	_	_	_	_	_
+7	mipuite	_	NOUN	_	_	_	_	_	_
+8	taihmakna	_	ADJ	_	_	_	_	_	_
+9	ram	_	NOUN	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hlawhtlin	_	NOUN	_	_	_	_	_	_
+12	tuma	_	VERB	_	_	_	_	_	_
+13	bei	_	ADV	_	_	_	_	_	_
+14	tak	_	ADJ	_	_	_	_	_	_
+15	tak	_	ADJ	_	_	_	_	_	_
+16	tamna	_	PRON	_	_	_	_	_	_
+17	ram	_	NOUN	_	_	_	_	_	_
+18	hi	_	DET	_	_	_	_	_	_
+19	ram	_	NOUN	_	_	_	_	_	_
+20	changkang	_	NOUN	_	_	_	_	_	_
+21	leh	_	CCONJ	_	_	_	_	_	_
+22	hmasawn	_	NOUN	_	_	_	_	_	_
+23	an	_	PRON	_	_	_	_	_	_
+24	ni	_	VERB	_	_	_	_	_	_
+25	zel	_	VERB	_	_	_	_	_	_
+26	a	_	PART	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/building-resilient-communities-women-and-sustainable-ecosystem-in-ner-buatsaih-a-ni/
+# Crawl Time: 2025-01-18 16:25:50
+# Sentence_id = 3
+# Text = Hetah hian Session 1 : Market Dynamics and Technology Adoption tih thupui hman a ni ang a .
+1	Hetah	_	PRON	_	_	_	_	_	_
+2	hian	_	PART	_	_	_	_	_	_
+3	Session	_	NOUN	_	_	_	_	_	_
+4	1	_	NUM	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	Market	_	PROPN	_	_	_	_	_	_
+7	Dynamics	_	PROPN	_	_	_	_	_	_
+8	and	_	CCONJ	_	_	_	_	_	_
+9	Technology	_	PROPN	_	_	_	_	_	_
+10	Adoption	_	PROPN	_	_	_	_	_	_
+11	tih	_	PART	_	_	_	_	_	_
+12	thupui	_	NOUN	_	_	_	_	_	_
+13	hman	_	VERB	_	_	_	_	_	_
+14	a	_	PRON	_	_	_	_	_	_
+15	ni	_	VERB	_	_	_	_	_	_
+16	ang	_	VERB	_	_	_	_	_	_
+17	a	_	VERB	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/asf-vanga-vawk-thi-an-tlem-zel/
+# Crawl Time: 2025-01-18 16:25:33
+# Sentence_id = 4
+# Text = Kar kalta Pathianni kha tun hnai a ni khata vawk damlo talh awm loh ni hmasa ber a ni a , Zirtawpni kalta khan vawk suat awm loh ni ani bawk a .
+1	Kar	_	NOUN	_	_	_	_	_	_
+2	kalta	_	NOUN	_	_	_	_	_	_
+3	Pathianni	_	NOUN	_	_	_	_	_	_
+4	kha	_	DET	_	_	_	_	_	_
+5	tun	_	NOUN	_	_	_	_	_	_
+6	hnai	_	NOUN	_	_	_	_	_	_
+7	a	_	AUX	_	_	_	_	_	_
+8	ni	_	NOUN	_	_	_	_	_	_
+9	khata	_	NOUN	_	_	_	_	_	_
+10	vawk	_	PROPN	_	_	_	_	_	_
+11	damlo	_	NOUN	_	_	_	_	_	_
+12	talh	_	VERB	_	_	_	_	_	_
+13	awm	_	VERB	_	_	_	_	_	_
+14	loh	_	ADV	_	_	_	_	_	_
+15	ni	_	NOUN	_	_	_	_	_	_
+16	hmasa	_	ADJ	_	_	_	_	_	_
+17	ber	_	ADJ	_	_	_	_	_	_
+18	a	_	AUX	_	_	_	_	_	_
+19	ni	_	VERB	_	_	_	_	_	_
+20	a	_	PART	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Zirtawpni	_	NOUN	_	_	_	_	_	_
+23	kalta	_	NOUN	_	_	_	_	_	_
+24	khan	_	ADP	_	_	_	_	_	_
+25	vawk	_	PROPN	_	_	_	_	_	_
+26	suat	_	VERB	_	_	_	_	_	_
+27	awm	_	VERB	_	_	_	_	_	_
+28	loh	_	ADV	_	_	_	_	_	_
+29	ni	_	NOUN	_	_	_	_	_	_
+30	ani	_	VERB	_	_	_	_	_	_
+31	bawk	_	ADV	_	_	_	_	_	_
+32	a	_	PART	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/cadc-ah-bangladesh-a-an-chipui-thah-chungchangah-lungawilohna-lantir/
+# Crawl Time: 2025-01-18 16:25:53
+# Sentence_id = 5
+# Text = An lehkha - ah chuan Bangladesh Chittagong Hill Tracts a tlangmi chengte himna atana awmze nei a hma lak a nih hma chuan India sorkarin Bangladesh sorkar nena inlaichinna tha pangngai kalpui lo se tih an phut niin an tarlang a .
+1	An	_	PRON	_	_	_	_	_	_
+2	lehkha	_	NOUN	_	_	_	_	_	_
+3	-	_	PUNCT	_	_	_	_	_	_
+4	ah	_	PART	_	_	_	_	_	_
+5	chuan	_	PART	_	_	_	_	_	_
+6	Bangladesh	_	PROPN	_	_	_	_	_	_
+7	Chittagong	_	PROPN	_	_	_	_	_	_
+8	Hill	_	PROPN	_	_	_	_	_	_
+9	Tracts	_	PROPN	_	_	_	_	_	_
+10	a	_	PART	_	_	_	_	_	_
+11	tlangmi	_	NOUN	_	_	_	_	_	_
+12	chengte	_	NOUN	_	_	_	_	_	_
+13	himna	_	ADJ	_	_	_	_	_	_
+14	atana	_	DET	_	_	_	_	_	_
+15	awmze	_	ADV	_	_	_	_	_	_
+16	nei	_	ADV	_	_	_	_	_	_
+17	a	_	VERB	_	_	_	_	_	_
+18	hma	_	VERB	_	_	_	_	_	_
+19	lak	_	VERB	_	_	_	_	_	_
+20	a	_	VERB	_	_	_	_	_	_
+21	nih	_	VERB	_	_	_	_	_	_
+22	hma	_	ADJ	_	_	_	_	_	_
+23	chuan	_	PART	_	_	_	_	_	_
+24	India	_	PROPN	_	_	_	_	_	_
+25	sorkarin	_	NOUN	_	_	_	_	_	_
+26	Bangladesh	_	PROPN	_	_	_	_	_	_
+27	sorkar	_	NOUN	_	_	_	_	_	_
+28	nena	_	ADP	_	_	_	_	_	_
+29	inlaichinna	_	NOUN	_	_	_	_	_	_
+30	tha	_	VERB	_	_	_	_	_	_
+31	pangngai	_	ADV	_	_	_	_	_	_
+32	kalpui	_	VERB	_	_	_	_	_	_
+33	lo	_	ADV	_	_	_	_	_	_
+34	se	_	DET	_	_	_	_	_	_
+35	tih	_	VERB	_	_	_	_	_	_
+36	an	_	PRON	_	_	_	_	_	_
+37	phut	_	ADV	_	_	_	_	_	_
+38	niin	_	ADJ	_	_	_	_	_	_
+39	an	_	PRON	_	_	_	_	_	_
+40	tarlang	_	VERB	_	_	_	_	_	_
+41	a	_	VERB	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/bana-kaih-policy-hnuaiah-kuthnathawktute-tan-hamthatna-a-awm-dawn-cm/
+# Crawl Time: 2025-01-18 16:25:57
+# Sentence_id = 6
+# Text = Chhungkaw 70 vel chuan an hnai tan tawh a ni .
+1	Chhungkaw	_	NOUN	_	_	_	_	_	_
+2	70	_	NUM	_	_	_	_	_	_
+3	vel	_	ADP	_	_	_	_	_	_
+4	chuan	_	CCONJ	_	_	_	_	_	_
+5	an	_	PRON	_	_	_	_	_	_
+6	hnai	_	NOUN	_	_	_	_	_	_
+7	tan	_	ADP	_	_	_	_	_	_
+8	tawh	_	PART	_	_	_	_	_	_
+9	a	_	PRON	_	_	_	_	_	_
+10	ni	_	VERB	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-serchhip-district-head-of-offices-te-meeting-neihpui/
+# Crawl Time: 2025-01-18 16:25:48
+# Sentence_id = 7
+# Text = Kawng dangah pawh Serchhip hian hmahruaitu nihna kan nei nual .
+1	Kawng	_	NOUN	_	_	_	_	_	_
+2	dangah	_	ADP	_	_	_	_	_	_
+3	pawh	_	ADV	_	_	_	_	_	_
+4	Serchhip	_	PROPN	_	_	_	_	_	_
+5	hian	_	ADP	_	_	_	_	_	_
+6	hmahruaitu	_	NOUN	_	_	_	_	_	_
+7	nihna	_	NOUN	_	_	_	_	_	_
+8	kan	_	PRON	_	_	_	_	_	_
+9	nei	_	VERB	_	_	_	_	_	_
+10	nual	_	ADV	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/asf-chungchangah-thupek-chhuah-thar-a-ni/
+# Crawl Time: 2025-01-18 16:25:58
+# Sentence_id = 8
+# Text = ASF hrilenna ( infected area ) puanna khua atangin Vawk , Vawksa , Frozen Pork , Vawksa rep leh vawksa atanga siam reng reng lakchhuah khap tlat a ni bawk .
+1	ASF	_	PROPN	_	_	_	_	_	_
+2	hrilenna	_	NOUN	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	infected	_	VERB	_	_	_	_	_	_
+5	area	_	NOUN	_	_	_	_	_	_
+6	)	_	PUNCT	_	_	_	_	_	_
+7	puanna	_	NOUN	_	_	_	_	_	_
+8	khua	_	NOUN	_	_	_	_	_	_
+9	atangin	_	ADP	_	_	_	_	_	_
+10	Vawk	_	NOUN	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Vawksa	_	NOUN	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Frozen	_	NOUN	_	_	_	_	_	_
+15	Pork	_	NOUN	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Vawksa	_	NOUN	_	_	_	_	_	_
+18	rep	_	NOUN	_	_	_	_	_	_
+19	leh	_	CCONJ	_	_	_	_	_	_
+20	vawksa	_	NOUN	_	_	_	_	_	_
+21	atanga	_	ADP	_	_	_	_	_	_
+22	siam	_	VERB	_	_	_	_	_	_
+23	reng	_	ADV	_	_	_	_	_	_
+24	reng	_	ADV	_	_	_	_	_	_
+25	lakchhuah	_	VERB	_	_	_	_	_	_
+26	khap	_	VERB	_	_	_	_	_	_
+27	tlat	_	ADV	_	_	_	_	_	_
+28	a	_	AUX	_	_	_	_	_	_
+29	ni	_	VERB	_	_	_	_	_	_
+30	bawk	_	ADV	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/amc-corporator-ten-fund-an-la-dawnglo/
+# Crawl Time: 2025-01-18 16:25:24
+# Sentence_id = 9
+# Text = Property tax khawn mek atangin nuai 15 theuh dawng thei tura ruahhman a nih thu a sawi bawk .
+1	Property	_	NOUN	_	_	_	_	_	_
+2	tax	_	NOUN	_	_	_	_	_	_
+3	khawn	_	VERB	_	_	_	_	_	_
+4	mek	_	ADV	_	_	_	_	_	_
+5	atangin	_	ADP	_	_	_	_	_	_
+6	nuai	_	NOUN	_	_	_	_	_	_
+7	15	_	NUM	_	_	_	_	_	_
+8	theuh	_	ADJ	_	_	_	_	_	_
+9	dawng	_	VERB	_	_	_	_	_	_
+10	thei	_	VERB	_	_	_	_	_	_
+11	tura	_	ADP	_	_	_	_	_	_
+12	ruahhman	_	NOUN	_	_	_	_	_	_
+13	a	_	AUX	_	_	_	_	_	_
+14	nih	_	VERB	_	_	_	_	_	_
+15	thu	_	NOUN	_	_	_	_	_	_
+16	a	_	PRON	_	_	_	_	_	_
+17	sawi	_	VERB	_	_	_	_	_	_
+18	bawk	_	ADV	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-tbcc-tlawhin-a-inkhawmpui-a-christmas-thilpek-a-pe/
+# Crawl Time: 2025-01-18 16:25:20
+# Sentence_id = 10
+# Text = Christmas leh kumthar hmanna tur pawisa a pek avang hian an lo lawm hle .
+1	Christmas	_	NOUN	_	_	_	_	_	_
+2	leh	_	CCONJ	_	_	_	_	_	_
+3	kumthar	_	NOUN	_	_	_	_	_	_
+4	hmanna	_	VERB	_	_	_	_	_	_
+5	tur	_	ADP	_	_	_	_	_	_
+6	pawisa	_	NOUN	_	_	_	_	_	_
+7	a	_	PRON	_	_	_	_	_	_
+8	pek	_	VERB	_	_	_	_	_	_
+9	avang	_	ADP	_	_	_	_	_	_
+10	hian	_	PART	_	_	_	_	_	_
+11	an	_	PRON	_	_	_	_	_	_
+12	lo	_	ADV	_	_	_	_	_	_
+13	lawm	_	NOUN	_	_	_	_	_	_
+14	hle	_	PART	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/agriculture-minister-in-promotion-of-millets-in-india-programme-khuallian-niin-hmanpui/
+# Sentence_id = 11
+# Text = Khuallian chuan tunhma chuan lo - a buh karah buhtun hi chin thin a ni a , hun rei tak hnuah buhtun chin uar tura NERAMAC hmalakna chu lawmawm a ti a .
+1	Khuallian	_	NOUN	_	_	_	_	_	_
+2	chuan	_	CCONJ	_	_	_	_	_	_
+3	tunhma	_	NOUN	_	_	_	_	_	_
+4	chuan	_	CCONJ	_	_	_	_	_	_
+5	lo	_	NOUN	_	_	_	_	_	_
+6	-	_	PUNCT	_	_	_	_	_	_
+7	a	_	AUX	_	_	_	_	_	_
+8	buh	_	NOUN	_	_	_	_	_	_
+9	karah	_	ADP	_	_	_	_	_	_
+10	buhtun	_	NOUN	_	_	_	_	_	_
+11	hi	_	PRON	_	_	_	_	_	_
+12	chin	_	VERB	_	_	_	_	_	_
+13	thin	_	VERB	_	_	_	_	_	_
+14	a	_	AUX	_	_	_	_	_	_
+15	ni	_	VERB	_	_	_	_	_	_
+16	a	_	AUX	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	hun	_	NOUN	_	_	_	_	_	_
+19	rei	_	ADJ	_	_	_	_	_	_
+20	tak	_	ADJ	_	_	_	_	_	_
+21	hnuah	_	ADP	_	_	_	_	_	_
+22	buhtun	_	NOUN	_	_	_	_	_	_
+23	chin	_	VERB	_	_	_	_	_	_
+24	uar	_	NOUN	_	_	_	_	_	_
+25	tura	_	ADP	_	_	_	_	_	_
+26	NERAMAC	_	PROPN	_	_	_	_	_	_
+27	hmalakna	_	NOUN	_	_	_	_	_	_
+28	chu	_	PART	_	_	_	_	_	_
+29	lawmawm	_	NOUN	_	_	_	_	_	_
+30	a	_	PRON	_	_	_	_	_	_
+31	ti	_	VERB	_	_	_	_	_	_
+32	a	_	AUX	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-secretary-in-mizoram-rahbi-5-0-kalpui-tur-a-hawng/
+# Crawl Time: 2025-01-18 16:25:53
+# Sentence_id = 12
+# Text = Dilna hi Office - ah leh MSUM website www . startupmizoram . com ah ngaihven theih a ni a , Office hun chhungin thehluh tur a ni ang .
+1	Dilna	_	NOUN	_	_	_	_	_	_
+2	hi	_	PART	_	_	_	_	_	_
+3	Office	_	NOUN	_	_	_	_	_	_
+4	-	_	PUNCT	_	_	_	_	_	_
+5	ah	_	PART	_	_	_	_	_	_
+6	leh	_	CCONJ	_	_	_	_	_	_
+7	MSUM	_	NOUN	_	_	_	_	_	_
+8	website	_	NOUN	_	_	_	_	_	_
+9	www	_	PROPN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+11	startupmizoram	_	PROPN	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+13	com	_	PROPN	_	_	_	_	_	_
+14	ah	_	PART	_	_	_	_	_	_
+15	ngaihven	_	VERB	_	_	_	_	_	_
+16	theih	_	VERB	_	_	_	_	_	_
+17	a	_	PRON	_	_	_	_	_	_
+18	ni	_	VERB	_	_	_	_	_	_
+19	a	_	VERB	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	Office	_	NOUN	_	_	_	_	_	_
+22	hun	_	ADJ	_	_	_	_	_	_
+23	chhungin	_	ADJ	_	_	_	_	_	_
+24	thehluh	_	VERB	_	_	_	_	_	_
+25	tur	_	VERB	_	_	_	_	_	_
+26	a	_	VERB	_	_	_	_	_	_
+27	ni	_	VERB	_	_	_	_	_	_
+28	ang	_	VERB	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/cadc-ah-bangladesh-a-an-chipui-thah-chungchangah-lungawilohna-lantir/
+# Crawl Time: 2025-01-18 16:25:53
+# Sentence_id = 13
+# Text = Bangladesh sipaite chuan hetianga Chakma mite laka tharum thawh lai hi an thlir mai mai niin an sawi .
+1	Bangladesh	_	PROPN	_	_	_	_	_	_
+2	sipaite	_	NOUN	_	_	_	_	_	_
+3	chuan	_	PART	_	_	_	_	_	_
+4	hetianga	_	DET	_	_	_	_	_	_
+5	Chakma	_	PROPN	_	_	_	_	_	_
+6	mite	_	NOUN	_	_	_	_	_	_
+7	laka	_	ADJ	_	_	_	_	_	_
+8	tharum	_	NOUN	_	_	_	_	_	_
+9	thawh	_	VERB	_	_	_	_	_	_
+10	lai	_	VERB	_	_	_	_	_	_
+11	hi	_	VERB	_	_	_	_	_	_
+12	an	_	PRON	_	_	_	_	_	_
+13	thlir	_	VERB	_	_	_	_	_	_
+14	mai	_	ADJ	_	_	_	_	_	_
+15	mai	_	ADJ	_	_	_	_	_	_
+16	niin	_	ADJ	_	_	_	_	_	_
+17	an	_	PRON	_	_	_	_	_	_
+18	sawi	_	VERB	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-departmental-review-meeting-neihpui/
+# Crawl Time: 2025-01-18 16:25:36
+# Sentence_id = 14
+# Text = Handholding Scheme hnuaia thlai thar lei tur thlan chhuah pali zinga pathum hi Horticulture hnuaia mi a nih anga an inbuatsaihna leh an hmalakna dang te chipchiar takin Chief Minister hmaah an tarlang .
+1	Handholding	_	NOUN	_	_	_	_	_	_
+2	Scheme	_	NOUN	_	_	_	_	_	_
+3	hnuaia	_	CCONJ	_	_	_	_	_	_
+4	thlai	_	NOUN	_	_	_	_	_	_
+5	thar	_	VERB	_	_	_	_	_	_
+6	lei	_	VERB	_	_	_	_	_	_
+7	tur	_	AUX	_	_	_	_	_	_
+8	thlan	_	VERB	_	_	_	_	_	_
+9	chhuah	_	AUX	_	_	_	_	_	_
+10	pali	_	NUM	_	_	_	_	_	_
+11	zinga	_	PART	_	_	_	_	_	_
+12	pathum	_	NUM	_	_	_	_	_	_
+13	hi	_	DET	_	_	_	_	_	_
+14	Horticulture	_	NOUN	_	_	_	_	_	_
+15	hnuaia	_	CCONJ	_	_	_	_	_	_
+16	mi	_	DET	_	_	_	_	_	_
+17	a	_	PRON	_	_	_	_	_	_
+18	nih	_	PART	_	_	_	_	_	_
+19	anga	_	CCONJ	_	_	_	_	_	_
+20	an	_	PRON	_	_	_	_	_	_
+21	inbuatsaihna	_	NOUN	_	_	_	_	_	_
+22	leh	_	CCONJ	_	_	_	_	_	_
+23	an	_	PRON	_	_	_	_	_	_
+24	hmalakna	_	NOUN	_	_	_	_	_	_
+25	dang	_	ADJ	_	_	_	_	_	_
+26	te	_	SCONJ	_	_	_	_	_	_
+27	chipchiar	_	ADJ	_	_	_	_	_	_
+28	takin	_	ADV	_	_	_	_	_	_
+29	Chief	_	NOUN	_	_	_	_	_	_
+30	Minister	_	NOUN	_	_	_	_	_	_
+31	hmaah	_	CCONJ	_	_	_	_	_	_
+32	an	_	PRON	_	_	_	_	_	_
+33	tarlang	_	VERB	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/3rd-ir-battalion-thingkah-ten-police-commemoration-day-pualin-thisen-pe/
+# Crawl Time: 2025-01-18 16:25:39
+# Sentence_id = 15
+# Text = Police Commemoration Day – denchhen hian 3rd IR Battalion , Thingkah , chuan Blood Donation Camp - bakah hian “ Cleanliness Drive leh Tree Plantation ’ an nei leh dawn bawk .
+1	Police	_	NOUN	_	_	_	_	_	_
+2	Commemoration	_	NOUN	_	_	_	_	_	_
+3	Day	_	NOUN	_	_	_	_	_	_
+4	–	_	PUNCT	_	_	_	_	_	_
+5	denchhen	_	ADV	_	_	_	_	_	_
+6	hian	_	ADP	_	_	_	_	_	_
+7	3rd	_	PROPN	_	_	_	_	_	_
+8	IR	_	PROPN	_	_	_	_	_	_
+9	Battalion	_	PROPN	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Thingkah	_	PROPN	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	chuan	_	CCONJ	_	_	_	_	_	_
+14	Blood	_	NOUN	_	_	_	_	_	_
+15	Donation	_	NOUN	_	_	_	_	_	_
+16	Camp	_	NOUN	_	_	_	_	_	_
+17	-	_	PUNCT	_	_	_	_	_	_
+18	bakah	_	CCONJ	_	_	_	_	_	_
+19	hian	_	ADP	_	_	_	_	_	_
+20	“	_	PUNCT	_	_	_	_	_	_
+21	Cleanliness	_	NOUN	_	_	_	_	_	_
+22	Drive	_	NOUN	_	_	_	_	_	_
+23	leh	_	CCONJ	_	_	_	_	_	_
+24	Tree	_	NOUN	_	_	_	_	_	_
+25	Plantation	_	NOUN	_	_	_	_	_	_
+26	’	_	PUNCT	_	_	_	_	_	_
+27	an	_	PRON	_	_	_	_	_	_
+28	nei	_	VERB	_	_	_	_	_	_
+29	leh	_	CCONJ	_	_	_	_	_	_
+30	dawn	_	VERB	_	_	_	_	_	_
+31	bawk	_	ADV	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/adviser-to-cm-er-ginzalalan-indo-myanmar-border-road-teikhang-mimbung-sinzawl-leh-nh-102b-ngopa-saitual-a-enfiah/
+# Crawl Time: 2025-01-18 16:25:25
+# Sentence_id = 16
+# Text = H . Ginzalala chuan lawmawm a tih thu a sawi a ni .
+1	H	_	PROPN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+3	Ginzalala	_	PROPN	_	_	_	_	_	_
+4	chuan	_	CCONJ	_	_	_	_	_	_
+5	lawmawm	_	ADJ	_	_	_	_	_	_
+6	a	_	AUX	_	_	_	_	_	_
+7	tih	_	VERB	_	_	_	_	_	_
+8	thu	_	NOUN	_	_	_	_	_	_
+9	a	_	AUX	_	_	_	_	_	_
+10	sawi	_	VERB	_	_	_	_	_	_
+11	a	_	AUX	_	_	_	_	_	_
+12	ni	_	VERB	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/agriculture-minister-in-promotion-of-millets-in-india-programme-khuallian-niin-hmanpui/
+# Crawl Time: 2025-01-18 16:25:41
+# Sentence_id = 17
+# Text = Khawvel pumah Kum 2023 - ah year of millet puan a ni bawk .
+1	Khawvel	_	NOUN	_	_	_	_	_	_
+2	pumah	_	NOUN	_	_	_	_	_	_
+3	Kum	_	NOUN	_	_	_	_	_	_
+4	2023	_	NOUN	_	_	_	_	_	_
+5	-	_	PUNCT	_	_	_	_	_	_
+6	ah	_	ADP	_	_	_	_	_	_
+7	year	_	NOUN	_	_	_	_	_	_
+8	of	_	ADP	_	_	_	_	_	_
+9	millet	_	PROPN	_	_	_	_	_	_
+10	puan	_	NOUN	_	_	_	_	_	_
+11	a	_	ADV	_	_	_	_	_	_
+12	ni	_	VERB	_	_	_	_	_	_
+13	bawk	_	VERB	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://www.vanglaini.org/editorial/20024
+# Crawled Time: 03-01-2025 12:50:17
+# Sentence_id = 18
+# Text = 24th October , 2019 Mizorama sorkar department hotute hi vawi eng emaw zat ram pawnah thil zir turin an zin chhuak ṭhin a , a chang chuan kan minister - te meuh pawh an zin chhuak ṭhin .
+1	24th	_	NOUN	_	_	_	_	_	_
+2	October	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	2019	_	NOUN	_	_	_	_	_	_
+5	Mizorama	_	PROPN	_	_	_	_	_	_
+6	sorkar	_	NOUN	_	_	_	_	_	_
+7	department	_	NOUN	_	_	_	_	_	_
+8	hotute	_	NOUN	_	_	_	_	_	_
+9	hi	_	PART	_	_	_	_	_	_
+10	vawi	_	NOUN	_	_	_	_	_	_
+11	eng	_	DET	_	_	_	_	_	_
+12	emaw	_	DET	_	_	_	_	_	_
+13	zat	_	DET	_	_	_	_	_	_
+14	ram	_	NOUN	_	_	_	_	_	_
+15	pawnah	_	ADP	_	_	_	_	_	_
+16	thil	_	NOUN	_	_	_	_	_	_
+17	zir	_	VERB	_	_	_	_	_	_
+18	turin	_	ADP	_	_	_	_	_	_
+19	an	_	PRON	_	_	_	_	_	_
+20	zin	_	VERB	_	_	_	_	_	_
+21	chhuak	_	VERB	_	_	_	_	_	_
+22	ṭhin	_	PART	_	_	_	_	_	_
+23	a	_	PART	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	a	_	ADV	_	_	_	_	_	_
+26	chang	_	ADV	_	_	_	_	_	_
+27	chuan	_	CCONJ	_	_	_	_	_	_
+28	kan	_	PRON	_	_	_	_	_	_
+29	minister	_	NOUN	_	_	_	_	_	_
+30	-	_	PUNCT	_	_	_	_	_	_
+31	te	_	PART	_	_	_	_	_	_
+32	meuh	_	PART	_	_	_	_	_	_
+33	pawh	_	CCONJ	_	_	_	_	_	_
+34	an	_	PRON	_	_	_	_	_	_
+35	zin	_	VERB	_	_	_	_	_	_
+36	chhuak	_	VERB	_	_	_	_	_	_
+37	ṭhin	_	PART	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/commonwealth-parliamentary-association-region-zone-iii-ten-conference-nei/
+# Crawl Time: 2025-01-18 16:25:51
+# Sentence_id = 19
+# Text = CPA India Regional Chairman , Lok Sabha Speaker ni bawk Pu Om Birla leh Rajya Sabha Chairman Pu Harivash Narayan Singh ten an rawn telpui .
+1	CPA	_	NOUN	_	_	_	_	_	_
+2	India	_	PROPN	_	_	_	_	_	_
+3	Regional	_	NOUN	_	_	_	_	_	_
+4	Chairman	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Lok	_	PROPN	_	_	_	_	_	_
+7	Sabha	_	PROPN	_	_	_	_	_	_
+8	Speaker	_	NOUN	_	_	_	_	_	_
+9	ni	_	NOUN	_	_	_	_	_	_
+10	bawk	_	ADV	_	_	_	_	_	_
+11	Pu	_	PROPN	_	_	_	_	_	_
+12	Om	_	PROPN	_	_	_	_	_	_
+13	Birla	_	PROPN	_	_	_	_	_	_
+14	leh	_	CCONJ	_	_	_	_	_	_
+15	Rajya	_	PROPN	_	_	_	_	_	_
+16	Sabha	_	PROPN	_	_	_	_	_	_
+17	Chairman	_	NOUN	_	_	_	_	_	_
+18	Pu	_	PROPN	_	_	_	_	_	_
+19	Harivash	_	PROPN	_	_	_	_	_	_
+20	Narayan	_	PROPN	_	_	_	_	_	_
+21	Singh	_	PROPN	_	_	_	_	_	_
+22	ten	_	PART	_	_	_	_	_	_
+23	an	_	PRON	_	_	_	_	_	_
+24	rawn	_	VERB	_	_	_	_	_	_
+25	telpui	_	VERB	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-serchhip-district-head-of-offices-te-meeting-neihpui/
+# Crawl Time: 2025-01-18 16:25:48
+# Sentence_id = 20
+# Text = CD ratio nei tha tak tak bank an awm tih kan hriat rualin tan han lak deuh mamawhte pawh kan awm thei a .
+1	CD	_	NOUN	_	_	_	_	_	_
+2	ratio	_	NOUN	_	_	_	_	_	_
+3	nei	_	VERB	_	_	_	_	_	_
+4	tha	_	ADJ	_	_	_	_	_	_
+5	tak	_	ADJ	_	_	_	_	_	_
+6	tak	_	ADJ	_	_	_	_	_	_
+7	bank	_	NOUN	_	_	_	_	_	_
+8	an	_	PRON	_	_	_	_	_	_
+9	awm	_	VERB	_	_	_	_	_	_
+10	tih	_	VERB	_	_	_	_	_	_
+11	kan	_	PRON	_	_	_	_	_	_
+12	hriat	_	NOUN	_	_	_	_	_	_
+13	rualin	_	CCONJ	_	_	_	_	_	_
+14	tan	_	VERB	_	_	_	_	_	_
+15	han	_	ADV	_	_	_	_	_	_
+16	lak	_	VERB	_	_	_	_	_	_
+17	deuh	_	ADV	_	_	_	_	_	_
+18	mamawhte	_	VERB	_	_	_	_	_	_
+19	pawh	_	CCONJ	_	_	_	_	_	_
+20	kan	_	PRON	_	_	_	_	_	_
+21	awm	_	VERB	_	_	_	_	_	_
+22	thei	_	VERB	_	_	_	_	_	_
+23	a	_	PART	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-tbcc-tlawhin-a-inkhawmpui-a-christmas-thilpek-a-pe/
+# Crawl Time: 2025-01-18 16:25:20
+# Sentence_id = 21
+# Text = Nungchate mahin chutianga an tih chuan kan nu leh pate pawhin kan chungah an ti ang tih i ring ang u .
+1	Nungchate	_	NOUN	_	_	_	_	_	_
+2	mahin	_	NOUN	_	_	_	_	_	_
+3	chutianga	_	ADV	_	_	_	_	_	_
+4	an	_	PRON	_	_	_	_	_	_
+5	tih	_	VERB	_	_	_	_	_	_
+6	chuan	_	CCONJ	_	_	_	_	_	_
+7	kan	_	PRON	_	_	_	_	_	_
+8	nu	_	NOUN	_	_	_	_	_	_
+9	leh	_	CCONJ	_	_	_	_	_	_
+10	pate	_	NOUN	_	_	_	_	_	_
+11	pawhin	_	CCONJ	_	_	_	_	_	_
+12	kan	_	PRON	_	_	_	_	_	_
+13	chungah	_	ADP	_	_	_	_	_	_
+14	an	_	PRON	_	_	_	_	_	_
+15	ti	_	VERB	_	_	_	_	_	_
+16	ang	_	PART	_	_	_	_	_	_
+17	tih	_	VERB	_	_	_	_	_	_
+18	i	_	PRON	_	_	_	_	_	_
+19	ring	_	VERB	_	_	_	_	_	_
+20	ang	_	PART	_	_	_	_	_	_
+21	u	_	PART	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://zothlifim.com/editorial/2022/04/editorial-ramhmul-damdawi-humhalh-leh-tihpun-kawngah-tan-la-ang-u/
+# Crawled Time: 04-01-2025 14:47:16
+# Sentence_id = 22
+# Text = Mizoram hi ram ngaw leh nungcha ( biodiversity ) - ah a hausa kan ti a , kan ram ngawahte hian ramhmul damdawi tam tak kan nei a , natna kan neih tam takte enkawlna tur ramhmul damdawi hi kan nei ṭha viau a , natna pakhat enkawlna atana hman theih ramhmul damdawi pawh chi hrang hrang kan nei nual a , mi tam tak chuan heng kan ramhmul damdawite hi kan natna enkawlna atan kan hmang nasa - in kan hmang ṭangkai hle bawk a ni .
+1	Mizoram	_	NOUN	_	_	_	_	_	_
+2	hi	_	PART	_	_	_	_	_	_
+3	ram	_	NOUN	_	_	_	_	_	_
+4	ngaw	_	NOUN	_	_	_	_	_	_
+5	leh	_	CCONJ	_	_	_	_	_	_
+6	nungcha	_	NOUN	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	biodiversity	_	NOUN	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	-	_	PUNCT	_	_	_	_	_	_
+11	ah	_	ADP	_	_	_	_	_	_
+12	a	_	PRON	_	_	_	_	_	_
+13	hausa	_	NOUN	_	_	_	_	_	_
+14	kan	_	PRON	_	_	_	_	_	_
+15	ti	_	VERB	_	_	_	_	_	_
+16	a	_	PART	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	kan	_	PRON	_	_	_	_	_	_
+19	ram	_	NOUN	_	_	_	_	_	_
+20	ngawahte	_	NOUN	_	_	_	_	_	_
+21	hian	_	CCONJ	_	_	_	_	_	_
+22	ramhmul	_	NOUN	_	_	_	_	_	_
+23	damdawi	_	NOUN	_	_	_	_	_	_
+24	tam	_	ADJ	_	_	_	_	_	_
+25	tak	_	ADJ	_	_	_	_	_	_
+26	kan	_	PRON	_	_	_	_	_	_
+27	nei	_	VERB	_	_	_	_	_	_
+28	a	_	PART	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	natna	_	NOUN	_	_	_	_	_	_
+31	kan	_	PRON	_	_	_	_	_	_
+32	neih	_	VERB	_	_	_	_	_	_
+33	tam	_	ADJ	_	_	_	_	_	_
+34	takte	_	ADJ	_	_	_	_	_	_
+35	enkawlna	_	NOUN	_	_	_	_	_	_
+36	tur	_	VERB	_	_	_	_	_	_
+37	ramhmul	_	NOUN	_	_	_	_	_	_
+38	damdawi	_	NOUN	_	_	_	_	_	_
+39	hi	_	PART	_	_	_	_	_	_
+40	kan	_	PART	_	_	_	_	_	_
+41	nei	_	VERB	_	_	_	_	_	_
+42	ṭha	_	ADJ	_	_	_	_	_	_
+43	viau	_	PART	_	_	_	_	_	_
+44	a	_	PART	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	natna	_	NOUN	_	_	_	_	_	_
+47	pakhat	_	NUM	_	_	_	_	_	_
+48	enkawlna	_	NOUN	_	_	_	_	_	_
+49	atana	_	ADP	_	_	_	_	_	_
+50	hman	_	VERB	_	_	_	_	_	_
+51	theih	_	VERB	_	_	_	_	_	_
+52	ramhmul	_	NOUN	_	_	_	_	_	_
+53	damdawi	_	NOUN	_	_	_	_	_	_
+54	pawh	_	CCONJ	_	_	_	_	_	_
+55	chi	_	NOUN	_	_	_	_	_	_
+56	hrang	_	ADJ	_	_	_	_	_	_
+57	hrang	_	ADJ	_	_	_	_	_	_
+58	kan	_	PRON	_	_	_	_	_	_
+59	nei	_	VERB	_	_	_	_	_	_
+60	nual	_	VERB	_	_	_	_	_	_
+61	a	_	PRON	_	_	_	_	_	_
+62	,	_	PUNCT	_	_	_	_	_	_
+63	mi	_	PRON	_	_	_	_	_	_
+64	tam	_	ADJ	_	_	_	_	_	_
+65	tak	_	ADJ	_	_	_	_	_	_
+66	chuan	_	CCONJ	_	_	_	_	_	_
+67	heng	_	PRON	_	_	_	_	_	_
+68	kan	_	PRON	_	_	_	_	_	_
+69	ramhmul	_	NOUN	_	_	_	_	_	_
+70	damdawite	_	NOUN	_	_	_	_	_	_
+71	hi	_	PART	_	_	_	_	_	_
+72	kan	_	PRON	_	_	_	_	_	_
+73	natna	_	NOUN	_	_	_	_	_	_
+74	enkawlna	_	NOUN	_	_	_	_	_	_
+75	atan	_	ADP	_	_	_	_	_	_
+76	kan	_	PRON	_	_	_	_	_	_
+77	hmang	_	VERB	_	_	_	_	_	_
+78	nasa	_	VERB	_	_	_	_	_	_
+79	-	_	PUNCT	_	_	_	_	_	_
+80	in	_	PART	_	_	_	_	_	_
+81	kan	_	PRON	_	_	_	_	_	_
+82	hmang	_	VERB	_	_	_	_	_	_
+83	ṭangkai	_	ADJ	_	_	_	_	_	_
+84	hle	_	ADJ	_	_	_	_	_	_
+85	bawk	_	PART	_	_	_	_	_	_
+86	a	_	PRON	_	_	_	_	_	_
+87	ni	_	VERB	_	_	_	_	_	_
+88	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chakma-nupa-kutdawhte-chungchang-buaipui-dawn/
+# Crawl Time: 2025-01-18 16:25:08
+# Sentence_id = 23
+# Text = Mahse , tun hnai - ah Aizawl khawpui - ah bawk kut an dawh leh tih hriat a ni a .
+1	Mahse	_	CCONJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	tun	_	NOUN	_	_	_	_	_	_
+4	hnai	_	NOUN	_	_	_	_	_	_
+5	-	_	PUNCT	_	_	_	_	_	_
+6	ah	_	PART	_	_	_	_	_	_
+7	Aizawl	_	PROPN	_	_	_	_	_	_
+8	khawpui	_	NOUN	_	_	_	_	_	_
+9	-	_	PUNCT	_	_	_	_	_	_
+10	ah	_	PART	_	_	_	_	_	_
+11	bawk	_	DET	_	_	_	_	_	_
+12	kut	_	NOUN	_	_	_	_	_	_
+13	an	_	PRON	_	_	_	_	_	_
+14	dawh	_	VERB	_	_	_	_	_	_
+15	leh	_	CCONJ	_	_	_	_	_	_
+16	tih	_	ADJ	_	_	_	_	_	_
+17	hriat	_	NOUN	_	_	_	_	_	_
+18	a	_	PRON	_	_	_	_	_	_
+19	ni	_	VERB	_	_	_	_	_	_
+20	a	_	VERB	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/bjp-nen-sawrkarna-intawm-siam-kan-tum-lo-lalduhoma/
+# Crawl Time: 2025-01-18 16:25:40
+# Sentence_id = 24
+# Text = An tih ngam loh chuan BJP in an hrek an hlau si a , indawrna a kal mek tih chiang takin a hre thawi niin Pu John Rotluangliana chuan a sawi a ni .
+1	An	_	PRON	_	_	_	_	_	_
+2	tih	_	VERB	_	_	_	_	_	_
+3	ngam	_	ADV	_	_	_	_	_	_
+4	loh	_	ADV	_	_	_	_	_	_
+5	chuan	_	VERB	_	_	_	_	_	_
+6	BJP	_	PROPN	_	_	_	_	_	_
+7	in	_	PART	_	_	_	_	_	_
+8	an	_	PRON	_	_	_	_	_	_
+9	hrek	_	VERB	_	_	_	_	_	_
+10	an	_	PRON	_	_	_	_	_	_
+11	hlau	_	VERB	_	_	_	_	_	_
+12	si	_	VERB	_	_	_	_	_	_
+13	a	_	VERB	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	indawrna	_	NOUN	_	_	_	_	_	_
+16	a	_	PART	_	_	_	_	_	_
+17	kal	_	ADV	_	_	_	_	_	_
+18	mek	_	ADV	_	_	_	_	_	_
+19	tih	_	VERB	_	_	_	_	_	_
+20	chiang	_	ADV	_	_	_	_	_	_
+21	takin	_	DET	_	_	_	_	_	_
+22	a	_	PRON	_	_	_	_	_	_
+23	hre	_	VERB	_	_	_	_	_	_
+24	thawi	_	ADV	_	_	_	_	_	_
+25	niin	_	ADJ	_	_	_	_	_	_
+26	Pu	_	PROPN	_	_	_	_	_	_
+27	John	_	PROPN	_	_	_	_	_	_
+28	Rotluangliana	_	PROPN	_	_	_	_	_	_
+29	chuan	_	PART	_	_	_	_	_	_
+30	a	_	PRON	_	_	_	_	_	_
+31	sawi	_	VERB	_	_	_	_	_	_
+32	a	_	VERB	_	_	_	_	_	_
+33	ni	_	VERB	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/aizawl-dc-hovin-good-governance-week-pual-hun-hman-a-ni/
+# Crawl Time: 2025-01-18 16:25:12
+# Sentence_id = 25
+# Text = Good Governance Week hi December ni 19 atanga intanin December 24 thleng neih a ni dawn a ni .
+1	Good	_	ADJ	_	_	_	_	_	_
+2	Governance	_	NOUN	_	_	_	_	_	_
+3	Week	_	NOUN	_	_	_	_	_	_
+4	hi	_	DET	_	_	_	_	_	_
+5	December	_	NOUN	_	_	_	_	_	_
+6	ni	_	NOUN	_	_	_	_	_	_
+7	19	_	NUM	_	_	_	_	_	_
+8	atanga	_	ADP	_	_	_	_	_	_
+9	intanin	_	ADP	_	_	_	_	_	_
+10	December	_	NOUN	_	_	_	_	_	_
+11	24	_	NUM	_	_	_	_	_	_
+12	thleng	_	ADP	_	_	_	_	_	_
+13	neih	_	VERB	_	_	_	_	_	_
+14	a	_	AUX	_	_	_	_	_	_
+15	ni	_	VERB	_	_	_	_	_	_
+16	dawn	_	ADV	_	_	_	_	_	_
+17	a	_	PART	_	_	_	_	_	_
+18	ni	_	VERB	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://zothlifim.com/editorial/2022/04/editorial-sawrkar-flagship-programme/
+# Sentence_id = 26
+# Text = Hetianga sawrkarin flagship programme a kalpui ṭhinte hi ramin hma a sawn theihna tur atan duan a ni a , sawrkar flagship programme kalpuina atan hian sawrkar chuan sum tam tak a sengral ṭhin a , amaherawhchu , sawrkarin sum tam tak sengral mahse an flagship programme hi ram mipuiten an hlawhtlinpui a , an ṭhatpui a nih chuan sawrkar hian sum tam tak a senral aia tam hi hlâwkna a hmu lêt ang a , ramin hma a sawn phah ngei tura ngaih a ni a , chuvangin , tuten emaw an hlauh lawk anga he sawrkar flagship programme hi party mite induhsakna leh party insawhnghehna atana ngaih theih tura kalpui a nih chuan he programme hi sawrkar flagship programme - a ngaih theih a ni lo ang .
+1	Hetianga	_	CCONJ	_	_	_	_	_	_
+2	sawrkarin	_	NOUN	_	_	_	_	_	_
+3	flagship	_	NOUN	_	_	_	_	_	_
+4	programme	_	NOUN	_	_	_	_	_	_
+5	a	_	PART	_	_	_	_	_	_
+6	kalpui	_	VERB	_	_	_	_	_	_
+7	ṭhinte	_	DET	_	_	_	_	_	_
+8	hi	_	PART	_	_	_	_	_	_
+9	ramin	_	NOUN	_	_	_	_	_	_
+10	hma	_	ADJ	_	_	_	_	_	_
+11	a	_	PRON	_	_	_	_	_	_
+12	sawn	_	ADV	_	_	_	_	_	_
+13	theihna	_	DET	_	_	_	_	_	_
+14	tur	_	AUX	_	_	_	_	_	_
+15	atan	_	ADJ	_	_	_	_	_	_
+16	duan	_	VERB	_	_	_	_	_	_
+17	a	_	PART	_	_	_	_	_	_
+18	ni	_	VERB	_	_	_	_	_	_
+19	a	_	PART	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	sawrkar	_	NOUN	_	_	_	_	_	_
+22	flagship	_	NOUN	_	_	_	_	_	_
+23	programme	_	NOUN	_	_	_	_	_	_
+24	kalpuina	_	ADV	_	_	_	_	_	_
+25	atan	_	ADV	_	_	_	_	_	_
+26	hian	_	DET	_	_	_	_	_	_
+27	sawrkar	_	NOUN	_	_	_	_	_	_
+28	chuan	_	CCONJ	_	_	_	_	_	_
+29	sum	_	NOUN	_	_	_	_	_	_
+30	tam	_	NUM	_	_	_	_	_	_
+31	tak	_	PART	_	_	_	_	_	_
+32	a	_	PART	_	_	_	_	_	_
+33	sengral	_	VERB	_	_	_	_	_	_
+34	ṭhin	_	ADV	_	_	_	_	_	_
+35	a	_	PART	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	amaherawhchu	_	CCONJ	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	sawrkarin	_	NOUN	_	_	_	_	_	_
+40	sum	_	NOUN	_	_	_	_	_	_
+41	tam	_	ADJ	_	_	_	_	_	_
+42	tak	_	ADJ	_	_	_	_	_	_
+43	sengral	_	VERB	_	_	_	_	_	_
+44	mahse	_	CCONJ	_	_	_	_	_	_
+45	an	_	PRON	_	_	_	_	_	_
+46	flagship	_	NOUN	_	_	_	_	_	_
+47	programme	_	NOUN	_	_	_	_	_	_
+48	hi	_	PART	_	_	_	_	_	_
+49	ram	_	NOUN	_	_	_	_	_	_
+50	mipuiten	_	NOUN	_	_	_	_	_	_
+51	an	_	PRON	_	_	_	_	_	_
+52	hlawhtlinpui	_	ADV	_	_	_	_	_	_
+53	a	_	PART	_	_	_	_	_	_
+54	,	_	PUNCT	_	_	_	_	_	_
+55	an	_	PRON	_	_	_	_	_	_
+56	ṭhatpui	_	ADV	_	_	_	_	_	_
+57	a	_	PART	_	_	_	_	_	_
+58	nih	_	AUX	_	_	_	_	_	_
+59	chuan	_	CCONJ	_	_	_	_	_	_
+60	sawrkar	_	NOUN	_	_	_	_	_	_
+61	hian	_	PART	_	_	_	_	_	_
+62	sum	_	NOUN	_	_	_	_	_	_
+63	tam	_	ADJ	_	_	_	_	_	_
+64	tak	_	ADJ	_	_	_	_	_	_
+65	a	_	PART	_	_	_	_	_	_
+66	senral	_	VERB	_	_	_	_	_	_
+67	aia	_	ADJ	_	_	_	_	_	_
+68	tam	_	VERB	_	_	_	_	_	_
+69	hi	_	AUX	_	_	_	_	_	_
+70	hlâwkna	_	NOUN	_	_	_	_	_	_
+71	a	_	PART	_	_	_	_	_	_
+72	hmu	_	VERB	_	_	_	_	_	_
+73	lêt	_	ADV	_	_	_	_	_	_
+74	ang	_	AUX	_	_	_	_	_	_
+75	a	_	PART	_	_	_	_	_	_
+76	,	_	PUNCT	_	_	_	_	_	_
+77	ramin	_	NOUN	_	_	_	_	_	_
+78	hma	_	ADJ	_	_	_	_	_	_
+79	a	_	PART	_	_	_	_	_	_
+80	sawn	_	VERB	_	_	_	_	_	_
+81	phah	_	AUX	_	_	_	_	_	_
+82	ngei	_	ADV	_	_	_	_	_	_
+83	tura	_	VERB	_	_	_	_	_	_
+84	ngaih	_	VERB	_	_	_	_	_	_
+85	a	_	PART	_	_	_	_	_	_
+86	ni	_	PART	_	_	_	_	_	_
+87	a	_	PART	_	_	_	_	_	_
+88	,	_	PUNCT	_	_	_	_	_	_
+89	chuvangin	_	CCONJ	_	_	_	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+91	tuten	_	PRON	_	_	_	_	_	_
+92	emaw	_	PRON	_	_	_	_	_	_
+93	an	_	PRON	_	_	_	_	_	_
+94	hlauh	_	VERB	_	_	_	_	_	_
+95	lawk	_	AUX	_	_	_	_	_	_
+96	anga	_	DET	_	_	_	_	_	_
+97	he	_	PART	_	_	_	_	_	_
+98	sawrkar	_	NOUN	_	_	_	_	_	_
+99	flagship	_	NOUN	_	_	_	_	_	_
+100	programme	_	NOUN	_	_	_	_	_	_
+101	hi	_	PART	_	_	_	_	_	_
+102	party	_	NOUN	_	_	_	_	_	_
+103	mite	_	PRON	_	_	_	_	_	_
+104	induhsakna	_	ADJ	_	_	_	_	_	_
+105	leh	_	CCONJ	_	_	_	_	_	_
+106	party	_	NOUN	_	_	_	_	_	_
+107	insawhnghehna	_	ADJ	_	_	_	_	_	_
+108	atana	_	VERB	_	_	_	_	_	_
+109	ngaih	_	VERB	_	_	_	_	_	_
+110	theih	_	VERB	_	_	_	_	_	_
+111	tura	_	AUX	_	_	_	_	_	_
+112	kalpui	_	VERB	_	_	_	_	_	_
+113	a	_	PART	_	_	_	_	_	_
+114	nih	_	VERB	_	_	_	_	_	_
+115	chuan	_	CCONJ	_	_	_	_	_	_
+116	he	_	PRON	_	_	_	_	_	_
+117	programme	_	NOUN	_	_	_	_	_	_
+118	hi	_	PART	_	_	_	_	_	_
+119	sawrkar	_	NOUN	_	_	_	_	_	_
+120	flagship	_	NOUN	_	_	_	_	_	_
+121	programme	_	NOUN	_	_	_	_	_	_
+122	-	_	PUNCT	_	_	_	_	_	_
+123	a	_	PART	_	_	_	_	_	_
+124	ngaih	_	VERB	_	_	_	_	_	_
+125	theih	_	AUX	_	_	_	_	_	_
+126	a	_	PART	_	_	_	_	_	_
+127	ni	_	VERB	_	_	_	_	_	_
+128	lo	_	VERB	_	_	_	_	_	_
+129	ang	_	PART	_	_	_	_	_	_
+130	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/aizawl-dc-hovin-good-governance-week-pual-hun-hman-a-ni/
+# Crawl Time: 2025-01-18 16:25:12
+# Sentence_id = 27
+# Text = Eng level ah pawh rinawm taka hna thawk in , sorkar inrelbawlna chu mipui rawngbawlna a ni tih vawng reng chungin theihtawp chhuah tur kan ni tiin thawktute chu a fuih a ni .
+1	Eng	_	ADV	_	_	_	_	_	_
+2	level	_	NOUN	_	_	_	_	_	_
+3	ah	_	ADP	_	_	_	_	_	_
+4	pawh	_	ADV	_	_	_	_	_	_
+5	rinawm	_	ADJ	_	_	_	_	_	_
+6	taka	_	ADV	_	_	_	_	_	_
+7	hna	_	NOUN	_	_	_	_	_	_
+8	thawk	_	VERB	_	_	_	_	_	_
+9	in	_	ADP	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	sorkar	_	NOUN	_	_	_	_	_	_
+12	inrelbawlna	_	NOUN	_	_	_	_	_	_
+13	chu	_	PART	_	_	_	_	_	_
+14	mipui	_	NOUN	_	_	_	_	_	_
+15	rawngbawlna	_	NOUN	_	_	_	_	_	_
+16	a	_	AUX	_	_	_	_	_	_
+17	ni	_	VERB	_	_	_	_	_	_
+18	tih	_	VERB	_	_	_	_	_	_
+19	vawng	_	VERB	_	_	_	_	_	_
+20	reng	_	ADV	_	_	_	_	_	_
+21	chungin	_	ADP	_	_	_	_	_	_
+22	theihtawp	_	NOUN	_	_	_	_	_	_
+23	chhuah	_	VERB	_	_	_	_	_	_
+24	tur	_	ADP	_	_	_	_	_	_
+25	kan	_	PRON	_	_	_	_	_	_
+26	ni	_	VERB	_	_	_	_	_	_
+27	tiin	_	VERB	_	_	_	_	_	_
+28	thawktute	_	NOUN	_	_	_	_	_	_
+29	chu	_	PART	_	_	_	_	_	_
+30	a	_	AUX	_	_	_	_	_	_
+31	fuih	_	VERB	_	_	_	_	_	_
+32	a	_	PRON	_	_	_	_	_	_
+33	ni	_	VERB	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/adviser-to-cm-pu-tbc-lalvenchhungan-hnahsin-kut-2024-a-hawng/
+# Crawl Time: 2025-01-18 16:25:50
+# Sentence_id = 28
+# Text = H . Ginzalala chuan Hnahsin Kut chu khualzin hip kawnga bung thar kai theihna pawimawh tak a ni tiin Mizoram sawrkar pawhin theihtawp chhuah pui zel a inhuam a ni , a ti a .
+1	H	_	PROPN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+3	Ginzalala	_	PROPN	_	_	_	_	_	_
+4	chuan	_	CCONJ	_	_	_	_	_	_
+5	Hnahsin	_	PROPN	_	_	_	_	_	_
+6	Kut	_	NOUN	_	_	_	_	_	_
+7	chu	_	PART	_	_	_	_	_	_
+8	khualzin	_	NOUN	_	_	_	_	_	_
+9	hip	_	NOUN	_	_	_	_	_	_
+10	kawnga	_	ADP	_	_	_	_	_	_
+11	bung	_	NOUN	_	_	_	_	_	_
+12	thar	_	ADJ	_	_	_	_	_	_
+13	kai	_	VERB	_	_	_	_	_	_
+14	theihna	_	VERB	_	_	_	_	_	_
+15	pawimawh	_	ADJ	_	_	_	_	_	_
+16	tak	_	ADJ	_	_	_	_	_	_
+17	a	_	AUX	_	_	_	_	_	_
+18	ni	_	VERB	_	_	_	_	_	_
+19	tiin	_	PART	_	_	_	_	_	_
+20	Mizoram	_	PROPN	_	_	_	_	_	_
+21	sawrkar	_	NOUN	_	_	_	_	_	_
+22	pawhin	_	CCONJ	_	_	_	_	_	_
+23	theihtawp	_	NOUN	_	_	_	_	_	_
+24	chhuah	_	VERB	_	_	_	_	_	_
+25	pui	_	VERB	_	_	_	_	_	_
+26	zel	_	PART	_	_	_	_	_	_
+27	a	_	AUX	_	_	_	_	_	_
+28	inhuam	_	VERB	_	_	_	_	_	_
+29	a	_	PRON	_	_	_	_	_	_
+30	ni	_	VERB	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	PRON	_	_	_	_	_	_
+33	ti	_	VERB	_	_	_	_	_	_
+34	a	_	AUX	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-tbcc-tlawhin-a-inkhawmpui-a-christmas-thilpek-a-pe/
+# Crawl Time: 2025-01-18 16:25:20
+# Sentence_id = 29
+# Text = Home a enkawl hi tlem tial tial se kan duh laiin an pung tial tial mai si a .
+1	Home	_	NOUN	_	_	_	_	_	_
+2	a	_	PRON	_	_	_	_	_	_
+3	enkawl	_	VERB	_	_	_	_	_	_
+4	hi	_	DET	_	_	_	_	_	_
+5	tlem	_	ADJ	_	_	_	_	_	_
+6	tial	_	ADJ	_	_	_	_	_	_
+7	tial	_	ADJ	_	_	_	_	_	_
+8	se	_	PART	_	_	_	_	_	_
+9	kan	_	PRON	_	_	_	_	_	_
+10	duh	_	VERB	_	_	_	_	_	_
+11	laiin	_	ADP	_	_	_	_	_	_
+12	an	_	PRON	_	_	_	_	_	_
+13	pung	_	VERB	_	_	_	_	_	_
+14	tial	_	ADJ	_	_	_	_	_	_
+15	tial	_	ADJ	_	_	_	_	_	_
+16	mai	_	PART	_	_	_	_	_	_
+17	si	_	PART	_	_	_	_	_	_
+18	a	_	PART	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/cadc-vc-general-election-atan-draft-roll-tlangzarh-a-ni/
+# Crawl Time: 2025-01-18 16:25:06
+# Sentence_id = 30
+# Text = Electoral Roll - a hming inthun thar , hming paih emaw tih dikna siamna atan ni 6 - 16 January , 2025 thleng hun hawn niin , January ni 17 atangin dilna lut te chu ERO leh AERO te ’ n an endik dawn a ni .
+1	Electoral	_	PROPN	_	_	_	_	_	_
+2	Roll	_	PROPN	_	_	_	_	_	_
+3	-	_	PUNCT	_	_	_	_	_	_
+4	a	_	PART	_	_	_	_	_	_
+5	hming	_	NOUN	_	_	_	_	_	_
+6	inthun	_	VERB	_	_	_	_	_	_
+7	thar	_	ADV	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hming	_	NOUN	_	_	_	_	_	_
+10	paih	_	VERB	_	_	_	_	_	_
+11	emaw	_	CCONJ	_	_	_	_	_	_
+12	tih	_	VERB	_	_	_	_	_	_
+13	dikna	_	ADJ	_	_	_	_	_	_
+14	siamna	_	ADV	_	_	_	_	_	_
+15	atan	_	VERB	_	_	_	_	_	_
+16	ni	_	NOUN	_	_	_	_	_	_
+17	6	_	NUM	_	_	_	_	_	_
+18	-	_	PUNCT	_	_	_	_	_	_
+19	16	_	NUM	_	_	_	_	_	_
+20	January	_	PROPN	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	2025	_	NUM	_	_	_	_	_	_
+23	thleng	_	PART	_	_	_	_	_	_
+24	hun	_	NOUN	_	_	_	_	_	_
+25	hawn	_	VERB	_	_	_	_	_	_
+26	niin	_	AUX	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	January	_	PROPN	_	_	_	_	_	_
+29	ni	_	NOUN	_	_	_	_	_	_
+30	17	_	NUM	_	_	_	_	_	_
+31	atangin	_	ADJ	_	_	_	_	_	_
+32	dilna	_	NOUN	_	_	_	_	_	_
+33	lut	_	VERB	_	_	_	_	_	_
+34	te	_	PART	_	_	_	_	_	_
+35	chu	_	AUX	_	_	_	_	_	_
+36	ERO	_	PROPN	_	_	_	_	_	_
+37	leh	_	CCONJ	_	_	_	_	_	_
+38	AERO	_	PROPN	_	_	_	_	_	_
+39	te	_	PART	_	_	_	_	_	_
+40	’	_	PUNCT	_	_	_	_	_	_
+41	n	_	PART	_	_	_	_	_	_
+42	an	_	PRON	_	_	_	_	_	_
+43	endik	_	VERB	_	_	_	_	_	_
+44	dawn	_	VERB	_	_	_	_	_	_
+45	a	_	VERB	_	_	_	_	_	_
+46	ni	_	VERB	_	_	_	_	_	_
+47	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-mizoram-secretariat-service-association-conference-hmanpui/
+# Crawl Time: 2025-01-18 16:25:36
+# Sentence_id = 31
+# Text = Tin , hnathawktu tha kan neih theih nan department tinah Service Review Committee kan dintir bawk a .
+1	Tin	_	CCONJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hnathawktu	_	NOUN	_	_	_	_	_	_
+4	tha	_	ADJ	_	_	_	_	_	_
+5	kan	_	PRON	_	_	_	_	_	_
+6	neih	_	VERB	_	_	_	_	_	_
+7	theih	_	VERB	_	_	_	_	_	_
+8	nan	_	ADP	_	_	_	_	_	_
+9	department	_	NOUN	_	_	_	_	_	_
+10	tinah	_	DET	_	_	_	_	_	_
+11	Service	_	NOUN	_	_	_	_	_	_
+12	Review	_	NOUN	_	_	_	_	_	_
+13	Committee	_	NOUN	_	_	_	_	_	_
+14	kan	_	PRON	_	_	_	_	_	_
+15	dintir	_	VERB	_	_	_	_	_	_
+16	bawk	_	ADV	_	_	_	_	_	_
+17	a	_	PART	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chakma-nupa-kutdawhte-chungchang-buaipui-dawn/
+# Crawl Time: 2025-01-18 16:25:08
+# Sentence_id = 32
+# Text = Chakma nupa hi hun engemaw chen Aizawl khawpui - ah kudawhin an awm tawh a .
+1	Chakma	_	PROPN	_	_	_	_	_	_
+2	nupa	_	NOUN	_	_	_	_	_	_
+3	hi	_	PART	_	_	_	_	_	_
+4	hun	_	NOUN	_	_	_	_	_	_
+5	engemaw	_	ADJ	_	_	_	_	_	_
+6	chen	_	DET	_	_	_	_	_	_
+7	Aizawl	_	PROPN	_	_	_	_	_	_
+8	khawpui	_	NOUN	_	_	_	_	_	_
+9	-	_	PUNCT	_	_	_	_	_	_
+10	ah	_	PART	_	_	_	_	_	_
+11	kudawhin	_	ADJ	_	_	_	_	_	_
+12	an	_	PRON	_	_	_	_	_	_
+13	awm	_	VERB	_	_	_	_	_	_
+14	tawh	_	VERB	_	_	_	_	_	_
+15	a	_	VERB	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/cadc-vc-general-election-atan-draft-roll-tlangzarh-a-ni/
+# Crawl Time: 2025-01-18 16:25:06
+# Sentence_id = 33
+# Text = Vawiin khan Chakma Autonomous District Council ( CADC ) huamchhunga Village Council ( VC ) inthlanna neih tur atan ‘ Draft Electoral Roll ’ tlangzarhna inkhawm chu SDO ( C ) Office , Chawngte ah neih a ni a .
+1	Vawiin	_	NOUN	_	_	_	_	_	_
+2	khan	_	PART	_	_	_	_	_	_
+3	Chakma	_	PROPN	_	_	_	_	_	_
+4	Autonomous	_	PROPN	_	_	_	_	_	_
+5	District	_	PROPN	_	_	_	_	_	_
+6	Council	_	PROPN	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	CADC	_	PROPN	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	huamchhunga	_	ADJ	_	_	_	_	_	_
+11	Village	_	PROPN	_	_	_	_	_	_
+12	Council	_	PROPN	_	_	_	_	_	_
+13	(	_	PUNCT	_	_	_	_	_	_
+14	VC	_	PROPN	_	_	_	_	_	_
+15	)	_	PUNCT	_	_	_	_	_	_
+16	inthlanna	_	NOUN	_	_	_	_	_	_
+17	neih	_	VERB	_	_	_	_	_	_
+18	tur	_	ADV	_	_	_	_	_	_
+19	atan	_	DET	_	_	_	_	_	_
+20	‘	_	PUNCT	_	_	_	_	_	_
+21	Draft	_	PROPN	_	_	_	_	_	_
+22	Electoral	_	PROPN	_	_	_	_	_	_
+23	Roll	_	PROPN	_	_	_	_	_	_
+24	’	_	PUNCT	_	_	_	_	_	_
+25	tlangzarhna	_	NOUN	_	_	_	_	_	_
+26	inkhawm	_	NOUN	_	_	_	_	_	_
+27	chu	_	PART	_	_	_	_	_	_
+28	SDO	_	PROPN	_	_	_	_	_	_
+29	(	_	PUNCT	_	_	_	_	_	_
+30	C	_	PROPN	_	_	_	_	_	_
+31	)	_	PUNCT	_	_	_	_	_	_
+32	Office	_	NOUN	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	Chawngte	_	PROPN	_	_	_	_	_	_
+35	ah	_	PART	_	_	_	_	_	_
+36	neih	_	ADV	_	_	_	_	_	_
+37	a	_	PRON	_	_	_	_	_	_
+38	ni	_	VERB	_	_	_	_	_	_
+39	a	_	VERB	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/adviser-to-cm-er-ginzalalan-indo-myanmar-border-road-teikhang-mimbung-sinzawl-leh-nh-102b-ngopa-saitual-a-enfiah/
+# Crawl Time: 2025-01-18 16:25:25
+# Sentence_id = 34
+# Text = H . Ginzalala leh NHIDCL hotute hian Indo Myanmar Road ( Tuivai Road ) Mimbung – Parva II chu National Highway Status a hmuh theih nan a hmalak dan tur an sawiho a .
+1	H	_	PROPN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+3	Ginzalala	_	PROPN	_	_	_	_	_	_
+4	leh	_	CCONJ	_	_	_	_	_	_
+5	NHIDCL	_	PROPN	_	_	_	_	_	_
+6	hotute	_	NOUN	_	_	_	_	_	_
+7	hian	_	ADP	_	_	_	_	_	_
+8	Indo	_	PROPN	_	_	_	_	_	_
+9	Myanmar	_	PROPN	_	_	_	_	_	_
+10	Road	_	NOUN	_	_	_	_	_	_
+11	(	_	PUNCT	_	_	_	_	_	_
+12	Tuivai	_	PROPN	_	_	_	_	_	_
+13	Road	_	NOUN	_	_	_	_	_	_
+14	)	_	PUNCT	_	_	_	_	_	_
+15	Mimbung	_	PROPN	_	_	_	_	_	_
+16	–	_	PUNCT	_	_	_	_	_	_
+17	Parva	_	PROPN	_	_	_	_	_	_
+18	II	_	NUM	_	_	_	_	_	_
+19	chu	_	DET	_	_	_	_	_	_
+20	National	_	NOUN	_	_	_	_	_	_
+21	Highway	_	NOUN	_	_	_	_	_	_
+22	Status	_	NOUN	_	_	_	_	_	_
+23	a	_	PRON	_	_	_	_	_	_
+24	hmuh	_	VERB	_	_	_	_	_	_
+25	theih	_	VERB	_	_	_	_	_	_
+26	nan	_	ADP	_	_	_	_	_	_
+27	a	_	AUX	_	_	_	_	_	_
+28	hmalak	_	VERB	_	_	_	_	_	_
+29	dan	_	NOUN	_	_	_	_	_	_
+30	tur	_	DET	_	_	_	_	_	_
+31	an	_	PRON	_	_	_	_	_	_
+32	sawiho	_	VERB	_	_	_	_	_	_
+33	a	_	AUX	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-departmental-review-meeting-neihpui/
+# Crawl Time: 2025-01-18 16:25:36
+# Sentence_id = 35
+# Text = A hmasa berah Horticulture Department hmalakna enho a ni a .
+1	A	_	PRON	_	_	_	_	_	_
+2	hmasa	_	ADJ	_	_	_	_	_	_
+3	berah	_	ADV	_	_	_	_	_	_
+4	Horticulture	_	NOUN	_	_	_	_	_	_
+5	Department	_	NOUN	_	_	_	_	_	_
+6	hmalakna	_	NOUN	_	_	_	_	_	_
+7	enho	_	VERB	_	_	_	_	_	_
+8	a	_	PRON	_	_	_	_	_	_
+9	ni	_	PART	_	_	_	_	_	_
+10	a	_	PART	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/adviser-to-cm-pu-tbc-lalvenchhungan-hnahsin-kut-2024-a-hawng/
+# Crawl Time: 2025-01-18 16:25:50
+# Sentence_id = 36
+# Text = Champhai South MLA Lt . Col . Clement Lalhmingthanga pawhin thu sawiin Hnahsin Kut hlawhtlinna atana thawktu leh beitu zawng zawng te chu chibai a buk a .
+1	Champhai	_	PROPN	_	_	_	_	_	_
+2	South	_	NOUN	_	_	_	_	_	_
+3	MLA	_	NOUN	_	_	_	_	_	_
+4	Lt	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+6	Col	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+8	Clement	_	PROPN	_	_	_	_	_	_
+9	Lalhmingthanga	_	PROPN	_	_	_	_	_	_
+10	pawhin	_	CCONJ	_	_	_	_	_	_
+11	thu	_	NOUN	_	_	_	_	_	_
+12	sawiin	_	VERB	_	_	_	_	_	_
+13	Hnahsin	_	PROPN	_	_	_	_	_	_
+14	Kut	_	NOUN	_	_	_	_	_	_
+15	hlawhtlinna	_	NOUN	_	_	_	_	_	_
+16	atana	_	ADP	_	_	_	_	_	_
+17	thawktu	_	NOUN	_	_	_	_	_	_
+18	leh	_	CCONJ	_	_	_	_	_	_
+19	beitu	_	NOUN	_	_	_	_	_	_
+20	zawng	_	ADJ	_	_	_	_	_	_
+21	zawng	_	ADJ	_	_	_	_	_	_
+22	te	_	PART	_	_	_	_	_	_
+23	chu	_	PART	_	_	_	_	_	_
+24	chibai	_	NOUN	_	_	_	_	_	_
+25	a	_	PRON	_	_	_	_	_	_
+26	buk	_	VERB	_	_	_	_	_	_
+27	a	_	AUX	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/annual-training-of-registrar-of-birth-and-death-hnahthialah-nei/
+# Crawl Time: 2025-01-18 16:25:05
+# Sentence_id = 37
+# Text = Economic and Statistics Department , District Research Office ( DRO ) Hnahthial bultumin ni hnih chhung awh tur – ‘ Annual Training of Registrar of Birth and Death ’ chu vawiin khan DRO Office , Hnahthialah neih tan a ni a .
+1	Economic	_	NOUN	_	_	_	_	_	_
+2	and	_	CCONJ	_	_	_	_	_	_
+3	Statistics	_	NOUN	_	_	_	_	_	_
+4	Department	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	District	_	NOUN	_	_	_	_	_	_
+7	Research	_	NOUN	_	_	_	_	_	_
+8	Office	_	NOUN	_	_	_	_	_	_
+9	(	_	PUNCT	_	_	_	_	_	_
+10	DRO	_	NOUN	_	_	_	_	_	_
+11	)	_	PROPN	_	_	_	_	_	_
+12	Hnahthial	_	PROPN	_	_	_	_	_	_
+13	bultumin	_	VERB	_	_	_	_	_	_
+14	ni	_	NOUN	_	_	_	_	_	_
+15	hnih	_	NUM	_	_	_	_	_	_
+16	chhung	_	ADP	_	_	_	_	_	_
+17	awh	_	VERB	_	_	_	_	_	_
+18	tur	_	ADP	_	_	_	_	_	_
+19	–	_	PUNCT	_	_	_	_	_	_
+20	‘	_	PUNCT	_	_	_	_	_	_
+21	Annual	_	NOUN	_	_	_	_	_	_
+22	Training	_	NOUN	_	_	_	_	_	_
+23	of	_	ADP	_	_	_	_	_	_
+24	Registrar	_	NOUN	_	_	_	_	_	_
+25	of	_	ADP	_	_	_	_	_	_
+26	Birth	_	NOUN	_	_	_	_	_	_
+27	and	_	CCONJ	_	_	_	_	_	_
+28	Death	_	NOUN	_	_	_	_	_	_
+29	’	_	PUNCT	_	_	_	_	_	_
+30	chu	_	PART	_	_	_	_	_	_
+31	vawiin	_	NOUN	_	_	_	_	_	_
+32	khan	_	ADP	_	_	_	_	_	_
+33	DRO	_	NOUN	_	_	_	_	_	_
+34	Office	_	NOUN	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	Hnahthialah	_	NOUN	_	_	_	_	_	_
+37	neih	_	VERB	_	_	_	_	_	_
+38	tan	_	VERB	_	_	_	_	_	_
+39	a	_	AUX	_	_	_	_	_	_
+40	ni	_	VERB	_	_	_	_	_	_
+41	a	_	PART	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://zothlifim.com/editorial/2022/08/editorial-ran-vulh-khuahkhirh-chungchang/
+# Crawled Time: 04-01-2025 14:49:33
+# Sentence_id = 38
+# Text = ṭhuthmun khawlaia a kaihruaitu awm lova ui tla hmuh tur la awm fo mai hi thianghlimna leh hriselna atan a ṭhat loh piah lamah mipuite himna atan pawh a ṭha lo hle a ni .
+1	ṭhuthmun	_	NOUN	_	_	_	_	_	_
+2	khawlaia	_	NOUN	_	_	_	_	_	_
+3	a	_	PRON	_	_	_	_	_	_
+4	kaihruaitu	_	NOUN	_	_	_	_	_	_
+5	awm	_	VERB	_	_	_	_	_	_
+6	lova	_	ADV	_	_	_	_	_	_
+7	ui	_	NOUN	_	_	_	_	_	_
+8	tla	_	VERB	_	_	_	_	_	_
+9	hmuh	_	VERB	_	_	_	_	_	_
+10	tur	_	VERB	_	_	_	_	_	_
+11	la	_	PART	_	_	_	_	_	_
+12	awm	_	VERB	_	_	_	_	_	_
+13	fo	_	PART	_	_	_	_	_	_
+14	mai	_	ADV	_	_	_	_	_	_
+15	hi	_	PART	_	_	_	_	_	_
+16	thianghlimna	_	NOUN	_	_	_	_	_	_
+17	leh	_	CCONJ	_	_	_	_	_	_
+18	hriselna	_	NOUN	_	_	_	_	_	_
+19	atan	_	ADP	_	_	_	_	_	_
+20	a	_	PRON	_	_	_	_	_	_
+21	ṭhat	_	NOUN	_	_	_	_	_	_
+22	loh	_	ADV	_	_	_	_	_	_
+23	piah	_	ADP	_	_	_	_	_	_
+24	lamah	_	ADP	_	_	_	_	_	_
+25	mipuite	_	NOUN	_	_	_	_	_	_
+26	himna	_	NOUN	_	_	_	_	_	_
+27	atan	_	ADP	_	_	_	_	_	_
+28	pawh	_	PART	_	_	_	_	_	_
+29	a	_	PART	_	_	_	_	_	_
+30	ṭha	_	ADJ	_	_	_	_	_	_
+31	lo	_	ADV	_	_	_	_	_	_
+32	hle	_	ADV	_	_	_	_	_	_
+33	a	_	PRON	_	_	_	_	_	_
+34	ni	_	VERB	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/ahvety-minister-pu-c-lalsawivungan-thenzawl-vety-farm-a-tlawh/
+# Crawl Time: 2025-01-18 16:25:05
+# Sentence_id = 39
+# Text = Ran chaw hi a ro ( dry ) hralh chhuah theih tura peih fel a nih tawh thu leh Kg 1 , 50 , 000 zet thar chhuah theih beisei a nih thu a sawi .
+1	Ran	_	NOUN	_	_	_	_	_	_
+2	chaw	_	NOUN	_	_	_	_	_	_
+3	hi	_	PART	_	_	_	_	_	_
+4	a	_	AUX	_	_	_	_	_	_
+5	ro	_	ADJ	_	_	_	_	_	_
+6	(	_	PUNCT	_	_	_	_	_	_
+7	dry	_	ADJ	_	_	_	_	_	_
+8	)	_	PUNCT	_	_	_	_	_	_
+9	hralh	_	VERB	_	_	_	_	_	_
+10	chhuah	_	VERB	_	_	_	_	_	_
+11	theih	_	AUX	_	_	_	_	_	_
+12	tura	_	ADP	_	_	_	_	_	_
+13	peih	_	VERB	_	_	_	_	_	_
+14	fel	_	ADV	_	_	_	_	_	_
+15	a	_	AUX	_	_	_	_	_	_
+16	nih	_	VERB	_	_	_	_	_	_
+17	tawh	_	ADV	_	_	_	_	_	_
+18	thu	_	NOUN	_	_	_	_	_	_
+19	leh	_	CCONJ	_	_	_	_	_	_
+20	Kg	_	NOUN	_	_	_	_	_	_
+21	1	_	NUM	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	50	_	NUM	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	000	_	NUM	_	_	_	_	_	_
+26	zet	_	ADV	_	_	_	_	_	_
+27	thar	_	ADJ	_	_	_	_	_	_
+28	chhuah	_	VERB	_	_	_	_	_	_
+29	theih	_	AUX	_	_	_	_	_	_
+30	beisei	_	NOUN	_	_	_	_	_	_
+31	a	_	AUX	_	_	_	_	_	_
+32	nih	_	VERB	_	_	_	_	_	_
+33	thu	_	NOUN	_	_	_	_	_	_
+34	a	_	PRON	_	_	_	_	_	_
+35	sawi	_	VERB	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://www.vanglaini.org/editorial/19766
+# Sentence_id = 40
+# Text = Engpawhnise a lawmawm ber chu mipuiin thlawhtheihna service ṭhahnem zawk hman tur an nei ta hi a ni a , kan state aṭanga khualzin lut leh chhuak an ṭhahnem ve tawh a , tun aia tam zawk neih belh pawh hi kan phu a , private airlines tam zawk lo lut belh zel se a ṭha ngawt mai .
+1	Engpawhnise	_	CCONJ	_	_	_	_	_	_
+2	a	_	PRON	_	_	_	_	_	_
+3	lawmawm	_	ADJ	_	_	_	_	_	_
+4	ber	_	ADV	_	_	_	_	_	_
+5	chu	_	VERB	_	_	_	_	_	_
+6	mipuiin	_	NOUN	_	_	_	_	_	_
+7	thlawhtheihna	_	NOUN	_	_	_	_	_	_
+8	service	_	NOUN	_	_	_	_	_	_
+9	ṭhahnem	_	VERB	_	_	_	_	_	_
+10	zawk	_	ADV	_	_	_	_	_	_
+11	hman	_	VERB	_	_	_	_	_	_
+12	tur	_	ADP	_	_	_	_	_	_
+13	an	_	PRON	_	_	_	_	_	_
+14	nei	_	VERB	_	_	_	_	_	_
+15	ta	_	PART	_	_	_	_	_	_
+16	hi	_	DET	_	_	_	_	_	_
+17	a	_	PRON	_	_	_	_	_	_
+18	ni	_	VERB	_	_	_	_	_	_
+19	a	_	PRON	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kan	_	PRON	_	_	_	_	_	_
+22	state	_	NOUN	_	_	_	_	_	_
+23	aṭanga	_	ADP	_	_	_	_	_	_
+24	khualzin	_	NOUN	_	_	_	_	_	_
+25	lut	_	VERB	_	_	_	_	_	_
+26	leh	_	CCONJ	_	_	_	_	_	_
+27	chhuak	_	VERB	_	_	_	_	_	_
+28	an	_	PRON	_	_	_	_	_	_
+29	ṭhahnem	_	VERB	_	_	_	_	_	_
+30	ve	_	PART	_	_	_	_	_	_
+31	tawh	_	PART	_	_	_	_	_	_
+32	a	_	AUX	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	tun	_	NOUN	_	_	_	_	_	_
+35	aia	_	DET	_	_	_	_	_	_
+36	tam	_	ADJ	_	_	_	_	_	_
+37	zawk	_	ADV	_	_	_	_	_	_
+38	neih	_	VERB	_	_	_	_	_	_
+39	belh	_	VERB	_	_	_	_	_	_
+40	pawh	_	CCONJ	_	_	_	_	_	_
+41	hi	_	DET	_	_	_	_	_	_
+42	kan	_	PRON	_	_	_	_	_	_
+43	phu	_	NOUN	_	_	_	_	_	_
+44	a	_	AUX	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	private	_	NOUN	_	_	_	_	_	_
+47	airlines	_	NOUN	_	_	_	_	_	_
+48	tam	_	ADJ	_	_	_	_	_	_
+49	zawk	_	ADV	_	_	_	_	_	_
+50	lo	_	ADV	_	_	_	_	_	_
+51	lut	_	VERB	_	_	_	_	_	_
+52	belh	_	VERB	_	_	_	_	_	_
+53	zel	_	PART	_	_	_	_	_	_
+54	se	_	PART	_	_	_	_	_	_
+55	a	_	PRON	_	_	_	_	_	_
+56	ṭha	_	ADJ	_	_	_	_	_	_
+57	ngawt	_	ADV	_	_	_	_	_	_
+58	mai	_	PART	_	_	_	_	_	_
+59	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/cadc-vc-general-election-atan-draft-roll-tlangzarh-a-ni/
+# Crawl Time: 2025-01-18 16:25:06
+# Sentence_id = 41
+# Text = District Election Officer chuan Democracy ramah mipuiten an aiawh an thlang thin a , inthlanna fel fai leh thianghlim awm turin uluk taka Electoral Roll siam a pawimawh thu a tarlang a .
+1	District	_	PROPN	_	_	_	_	_	_
+2	Election	_	PROPN	_	_	_	_	_	_
+3	Officer	_	PROPN	_	_	_	_	_	_
+4	chuan	_	PART	_	_	_	_	_	_
+5	Democracy	_	NOUN	_	_	_	_	_	_
+6	ramah	_	NOUN	_	_	_	_	_	_
+7	mipuiten	_	NOUN	_	_	_	_	_	_
+8	an	_	NOUN	_	_	_	_	_	_
+9	aiawh	_	ADJ	_	_	_	_	_	_
+10	an	_	PRON	_	_	_	_	_	_
+11	thlang	_	VERB	_	_	_	_	_	_
+12	thin	_	VERB	_	_	_	_	_	_
+13	a	_	VERB	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	inthlanna	_	NOUN	_	_	_	_	_	_
+16	fel	_	ADV	_	_	_	_	_	_
+17	fai	_	ADV	_	_	_	_	_	_
+18	leh	_	CCONJ	_	_	_	_	_	_
+19	thianghlim	_	NOUN	_	_	_	_	_	_
+20	awm	_	ADJ	_	_	_	_	_	_
+21	turin	_	VERB	_	_	_	_	_	_
+22	uluk	_	ADV	_	_	_	_	_	_
+23	taka	_	DET	_	_	_	_	_	_
+24	Electoral	_	NOUN	_	_	_	_	_	_
+25	Roll	_	NOUN	_	_	_	_	_	_
+26	siam	_	VERB	_	_	_	_	_	_
+27	a	_	VERB	_	_	_	_	_	_
+28	pawimawh	_	ADJ	_	_	_	_	_	_
+29	thu	_	NOUN	_	_	_	_	_	_
+30	a	_	PRON	_	_	_	_	_	_
+31	tarlang	_	VERB	_	_	_	_	_	_
+32	a	_	PRON	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+# URL: https://mizoexpress.in/chief-minister-pu-lalduhoman-saitual-district-ah-excise-narcotics-station-a-hawng/
+# Crawl Time: 2025-01-18 16:25:17
+# Sentence_id = 43
+# Text = He hunah hian Chief Minister chuan ruihhlo dona atana hmun pawimawh ni turin Saitual district - ah Excise & Narcotics Station chu hawn a ni tih a sawi a , Sawrkar chuan ruihhlo do leh tih rem hi a ngai pawimawh takzet a ni , a ti .
+1	He	_	DET	_	_	_	_	_	_
+2	hunah	_	NOUN	_	_	_	_	_	_
+3	hian	_	DET	_	_	_	_	_	_
+4	Chief	_	NOUN	_	_	_	_	_	_
+5	Minister	_	NOUN	_	_	_	_	_	_
+6	chuan	_	CCONJ	_	_	_	_	_	_
+7	ruihhlo	_	NOUN	_	_	_	_	_	_
+8	dona	_	NOUN	_	_	_	_	_	_
+9	atana	_	DET	_	_	_	_	_	_
+10	hmun	_	NOUN	_	_	_	_	_	_
+11	pawimawh	_	ADJ	_	_	_	_	_	_
+12	ni	_	PART	_	_	_	_	_	_
+13	turin	_	CCONJ	_	_	_	_	_	_
+14	Saitual	_	PROPN	_	_	_	_	_	_
+15	district	_	NOUN	_	_	_	_	_	_
+16	-	_	PUNCT	_	_	_	_	_	_
+17	ah	_	SCONJ	_	_	_	_	_	_
+18	Excise	_	NOUN	_	_	_	_	_	_
+19	&	_	SYM	_	_	_	_	_	_
+20	Narcotics	_	NOUN	_	_	_	_	_	_
+21	Station	_	NOUN	_	_	_	_	_	_
+22	chu	_	CCONJ	_	_	_	_	_	_
+23	hawn	_	VERB	_	_	_	_	_	_
+24	a	_	PART	_	_	_	_	_	_
+25	ni	_	PART	_	_	_	_	_	_
+26	tih	_	PART	_	_	_	_	_	_
+27	a	_	PRON	_	_	_	_	_	_
+28	sawi	_	VERB	_	_	_	_	_	_
+29	a	_	PART	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	Sawrkar	_	NOUN	_	_	_	_	_	_
+32	chuan	_	CCONJ	_	_	_	_	_	_
+33	ruihhlo	_	NOUN	_	_	_	_	_	_
+34	do	_	VERB	_	_	_	_	_	_
+35	leh	_	CCONJ	_	_	_	_	_	_
+36	tih	_	VERB	_	_	_	_	_	_
+37	rem	_	VERB	_	_	_	_	_	_
+38	hi	_	DET	_	_	_	_	_	_
+39	a	_	PRON	_	_	_	_	_	_
+40	ngai	_	VERB	_	_	_	_	_	_
+41	pawimawh	_	ADJ	_	_	_	_	_	_
+42	takzet	_	ADV	_	_	_	_	_	_
+43	a	_	PART	_	_	_	_	_	_
+44	ni	_	PART	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	a	_	PRON	_	_	_	_	_	_
+47	ti	_	PART	_	_	_	_	_	_
+48	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-minister-in-departmental-review-meeting-neihpui/
+# Crawl Time: 2025-01-18 16:25:36
+# Sentence_id = 44
+# Text = Cyclone Remal an tawrh nasat thu leh Aizawl tuilak pawhin ngai a la awh theih loh thu an sawi bawk .
+1	Cyclone	_	NOUN	_	_	_	_	_	_
+2	Remal	_	PROPN	_	_	_	_	_	_
+3	an	_	PRON	_	_	_	_	_	_
+4	tawrh	_	VERB	_	_	_	_	_	_
+5	nasat	_	AUX	_	_	_	_	_	_
+6	thu	_	NOUN	_	_	_	_	_	_
+7	leh	_	CCONJ	_	_	_	_	_	_
+8	Aizawl	_	PROPN	_	_	_	_	_	_
+9	tuilak	_	NOUN	_	_	_	_	_	_
+10	pawhin	_	CCONJ	_	_	_	_	_	_
+11	ngai	_	NOUN	_	_	_	_	_	_
+12	a	_	PRON	_	_	_	_	_	_
+13	la	_	PART	_	_	_	_	_	_
+14	awh	_	VERB	_	_	_	_	_	_
+15	theih	_	PART	_	_	_	_	_	_
+16	loh	_	PART	_	_	_	_	_	_
+17	thu	_	NOUN	_	_	_	_	_	_
+18	an	_	PRON	_	_	_	_	_	_
+19	sawi	_	VERB	_	_	_	_	_	_
+20	bawk	_	AUX	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/chief-secretary-in-mizoram-rahbi-5-0-kalpui-tur-a-hawng/
+# Crawl Time: 2025-01-18 16:25:53
+# Sentence_id = 45
+# Text = Hemi endikna atang hian November ni 22 ah contestant intihsiaknaa tel zel theite chinfel a ni ang .
+1	Hemi	_	PRON	_	_	_	_	_	_
+2	endikna	_	NOUN	_	_	_	_	_	_
+3	atang	_	ADJ	_	_	_	_	_	_
+4	hian	_	PART	_	_	_	_	_	_
+5	November	_	NOUN	_	_	_	_	_	_
+6	ni	_	NOUN	_	_	_	_	_	_
+7	22	_	NUM	_	_	_	_	_	_
+8	ah	_	PART	_	_	_	_	_	_
+9	contestant	_	NOUN	_	_	_	_	_	_
+10	intihsiaknaa	_	NOUN	_	_	_	_	_	_
+11	tel	_	VERB	_	_	_	_	_	_
+12	zel	_	ADV	_	_	_	_	_	_
+13	theite	_	VERB	_	_	_	_	_	_
+14	chinfel	_	VERB	_	_	_	_	_	_
+15	a	_	VERB	_	_	_	_	_	_
+16	ni	_	VERB	_	_	_	_	_	_
+17	ang	_	VERB	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://zothlifim.com/editorial/2022/03/corruption-leh-induhsakna-uchuak-hi-a-tak-taka-kan-do-a-ngaidr-vanlalthlana-mla/
+# Crawled Time: 04-01-2025 14:46:19
+# Sentence_id = 46
+# Text = Corruption hian mitin a nghawng a , rethei ngai an rethei ngat ngat a , hausa an hausa tawlh tawlh thung , mahse kan ram hi vote hmangin kalphung thar sawrkar hnuaiah siamthat theih a ni .
+1	Corruption	_	NOUN	_	_	_	_	_	_
+2	hian	_	PART	_	_	_	_	_	_
+3	mitin	_	NOUN	_	_	_	_	_	_
+4	a	_	PART	_	_	_	_	_	_
+5	nghawng	_	VERB	_	_	_	_	_	_
+6	a	_	PART	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	rethei	_	NOUN	_	_	_	_	_	_
+9	ngai	_	VERB	_	_	_	_	_	_
+10	an	_	PRON	_	_	_	_	_	_
+11	rethei	_	NOUN	_	_	_	_	_	_
+12	ngat	_	ADV	_	_	_	_	_	_
+13	ngat	_	ADV	_	_	_	_	_	_
+14	a	_	PART	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	hausa	_	NOUN	_	_	_	_	_	_
+17	an	_	PRON	_	_	_	_	_	_
+18	hausa	_	NOUN	_	_	_	_	_	_
+19	tawlh	_	ADV	_	_	_	_	_	_
+20	tawlh	_	ADV	_	_	_	_	_	_
+21	thung	_	PART	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	mahse	_	CCONJ	_	_	_	_	_	_
+24	kan	_	PRON	_	_	_	_	_	_
+25	ram	_	NOUN	_	_	_	_	_	_
+26	hi	_	DET	_	_	_	_	_	_
+27	vote	_	NOUN	_	_	_	_	_	_
+28	hmangin	_	VERB	_	_	_	_	_	_
+29	kalphung	_	NOUN	_	_	_	_	_	_
+30	thar	_	ADJ	_	_	_	_	_	_
+31	sawrkar	_	NOUN	_	_	_	_	_	_
+32	hnuaiah	_	ADP	_	_	_	_	_	_
+33	siamthat	_	VERB	_	_	_	_	_	_
+34	theih	_	VERB	_	_	_	_	_	_
+35	a	_	PART	_	_	_	_	_	_
+36	ni	_	VERB	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://zothlifim.com/editorial/2022/03/corruption-leh-induhsakna-uchuak-hi-a-tak-taka-kan-do-a-ngaidr-vanlalthlana-mla/
+# Crawled Time: 04-01-2025 14:46:19
+# Sentence_id = 47
+# Text = Zu dova tha kan thawh ang tluk hian pawl tinte hi corruption dovin thawk chhuak ila , ram siamthat bul tanna atan chu chu a pawimawh ber a ni , ” a ti .
+1	Zu	_	NOUN	_	_	_	_	_	_
+2	dova	_	VERB	_	_	_	_	_	_
+3	tha	_	ADV	_	_	_	_	_	_
+4	kan	_	PRON	_	_	_	_	_	_
+5	thawh	_	VERB	_	_	_	_	_	_
+6	ang	_	PART	_	_	_	_	_	_
+7	tluk	_	ADV	_	_	_	_	_	_
+8	hian	_	PART	_	_	_	_	_	_
+9	pawl	_	NOUN	_	_	_	_	_	_
+10	tinte	_	PRON	_	_	_	_	_	_
+11	hi	_	PART	_	_	_	_	_	_
+12	corruption	_	NOUN	_	_	_	_	_	_
+13	dovin	_	VERB	_	_	_	_	_	_
+14	thawk	_	VERB	_	_	_	_	_	_
+15	chhuak	_	VERB	_	_	_	_	_	_
+16	ila	_	PRON	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ram	_	NOUN	_	_	_	_	_	_
+19	siamthat	_	VERB	_	_	_	_	_	_
+20	bul	_	VERB	_	_	_	_	_	_
+21	tanna	_	VERB	_	_	_	_	_	_
+22	atan	_	ADP	_	_	_	_	_	_
+23	chu	_	PART	_	_	_	_	_	_
+24	chu	_	PART	_	_	_	_	_	_
+25	a	_	PART	_	_	_	_	_	_
+26	pawimawh	_	NOUN	_	_	_	_	_	_
+27	ber	_	ADJ	_	_	_	_	_	_
+28	a	_	PART	_	_	_	_	_	_
+29	ni	_	VERB	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	”	_	PUNCT	_	_	_	_	_	_
+32	a	_	PRON	_	_	_	_	_	_
+33	ti	_	VERB	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/bcm-ah-naupangte-ni-hman-a-ni/
+# Crawl Time: 2025-01-18 16:25:33
+# Sentence_id = 48
+# Text = Naupangte pawhin he ni puala hian an thiam thil hrang hrangte entirin rawngbawlna an nei bawk .
+1	Naupangte	_	PROPN	_	_	_	_	_	_
+2	pawhin	_	ADJ	_	_	_	_	_	_
+3	he	_	VERB	_	_	_	_	_	_
+4	ni	_	NOUN	_	_	_	_	_	_
+5	puala	_	ADJ	_	_	_	_	_	_
+6	hian	_	PART	_	_	_	_	_	_
+7	an	_	PRON	_	_	_	_	_	_
+8	thiam	_	VERB	_	_	_	_	_	_
+9	thil	_	VERB	_	_	_	_	_	_
+10	hrang	_	ADJ	_	_	_	_	_	_
+11	hrangte	_	ADJ	_	_	_	_	_	_
+12	entirin	_	NOUN	_	_	_	_	_	_
+13	rawngbawlna	_	NOUN	_	_	_	_	_	_
+14	an	_	PRON	_	_	_	_	_	_
+15	nei	_	VERB	_	_	_	_	_	_
+16	bawk	_	VERB	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/banakaih-policy-hnuaia-thlai-thar-chhuah-lakkhawmna-leh-hralh-chhuahna-hmun-tur-chungchang-champhaiah-rel-ani/
+# Crawl Time: 2025-01-18 16:25:06
+# Sentence_id = 49
+# Text = Bawrhsap chuan mipui ten an thlaithar chhuah awlsam zawk a an chhun luh theihna tur leh an hralh chhuah theihna tur – Collection Centre uluk taka thlan a tul thu a sawi bawk .
+1	Bawrhsap	_	PROPN	_	_	_	_	_	_
+2	chuan	_	PART	_	_	_	_	_	_
+3	mipui	_	NOUN	_	_	_	_	_	_
+4	ten	_	PRON	_	_	_	_	_	_
+5	an	_	PRON	_	_	_	_	_	_
+6	thlaithar	_	NOUN	_	_	_	_	_	_
+7	chhuah	_	NOUN	_	_	_	_	_	_
+8	awlsam	_	ADJ	_	_	_	_	_	_
+9	zawk	_	ADV	_	_	_	_	_	_
+10	a	_	VERB	_	_	_	_	_	_
+11	an	_	PRON	_	_	_	_	_	_
+12	chhun	_	VERB	_	_	_	_	_	_
+13	luh	_	VERB	_	_	_	_	_	_
+14	theihna	_	ADJ	_	_	_	_	_	_
+15	tur	_	VERB	_	_	_	_	_	_
+16	leh	_	CCONJ	_	_	_	_	_	_
+17	an	_	PRON	_	_	_	_	_	_
+18	hralh	_	VERB	_	_	_	_	_	_
+19	chhuah	_	VERB	_	_	_	_	_	_
+20	theihna	_	ADJ	_	_	_	_	_	_
+21	tur	_	VERB	_	_	_	_	_	_
+22	–	_	PUNCT	_	_	_	_	_	_
+23	Collection	_	PROPN	_	_	_	_	_	_
+24	Centre	_	PROPN	_	_	_	_	_	_
+25	uluk	_	VERB	_	_	_	_	_	_
+26	taka	_	VERB	_	_	_	_	_	_
+27	thlan	_	VERB	_	_	_	_	_	_
+28	a	_	VERB	_	_	_	_	_	_
+29	tul	_	VERB	_	_	_	_	_	_
+30	thu	_	NOUN	_	_	_	_	_	_
+31	a	_	PRON	_	_	_	_	_	_
+32	sawi	_	VERB	_	_	_	_	_	_
+33	bawk	_	VERB	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/agriculture-minister-in-promotion-of-millets-in-india-programme-khuallian-niin-hmanpui/
+# Crawl Time: 2025-01-18 16:25:41
+# Sentence_id = 50
+# Text = Vawiin programme - ah hian Commodore Rajiv Ashok ( Retd ) , MD , NERAMAC chuan kalkhawmte lawmna thu sawiin India ramah Kum 2018 - ah year of millet puan a ni a .
+1	Vawiin	_	NOUN	_	_	_	_	_	_
+2	programme	_	NOUN	_	_	_	_	_	_
+3	-	_	PUNCT	_	_	_	_	_	_
+4	ah	_	ADP	_	_	_	_	_	_
+5	hian	_	CCONJ	_	_	_	_	_	_
+6	Commodore	_	NOUN	_	_	_	_	_	_
+7	Rajiv	_	PROPN	_	_	_	_	_	_
+8	Ashok	_	PROPN	_	_	_	_	_	_
+9	(	_	PUNCT	_	_	_	_	_	_
+10	Retd	_	NOUN	_	_	_	_	_	_
+11	)	_	PUNCT	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	MD	_	NOUN	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	NERAMAC	_	PROPN	_	_	_	_	_	_
+16	chuan	_	CCONJ	_	_	_	_	_	_
+17	kalkhawmte	_	NOUN	_	_	_	_	_	_
+18	lawmna	_	NOUN	_	_	_	_	_	_
+19	thu	_	NOUN	_	_	_	_	_	_
+20	sawiin	_	VERB	_	_	_	_	_	_
+21	India	_	PROPN	_	_	_	_	_	_
+22	ramah	_	NOUN	_	_	_	_	_	_
+23	Kum	_	NOUN	_	_	_	_	_	_
+24	2018	_	NOUN	_	_	_	_	_	_
+25	-	_	PUNCT	_	_	_	_	_	_
+26	ah	_	ADP	_	_	_	_	_	_
+27	year	_	NOUN	_	_	_	_	_	_
+28	of	_	ADP	_	_	_	_	_	_
+29	millet	_	PROPN	_	_	_	_	_	_
+30	puan	_	NOUN	_	_	_	_	_	_
+31	a	_	AUX	_	_	_	_	_	_
+32	ni	_	VERB	_	_	_	_	_	_
+33	a	_	AUX	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# URL: https://mizoexpress.in/annual-training-of-registrar-of-birth-and-death-hnahthialah-nei/
+# Crawl Time: 2025-01-18 16:25:05
+# Sentence_id = 51
+# Text = Hetiang hian veng / khua tana RBD za sarih sawmruk pariat ( 768 ) te pawhin February 1 , 2025 atanga Online Registration ti a , Digitized Certificate an pek chhuah tan theih nan Training hi nei an nih thu tarlan a ni bawk .
+1	Hetiang	_	ADP	_	_	_	_	_	_
+2	hian	_	PART	_	_	_	_	_	_
+3	veng	_	NOUN	_	_	_	_	_	_
+4	/	_	PUNCT	_	_	_	_	_	_
+5	khua	_	NOUN	_	_	_	_	_	_
+6	tana	_	ADP	_	_	_	_	_	_
+7	RBD	_	NOUN	_	_	_	_	_	_
+8	za	_	NUM	_	_	_	_	_	_
+9	sarih	_	NUM	_	_	_	_	_	_
+10	sawmruk	_	NUM	_	_	_	_	_	_
+11	pariat	_	NUM	_	_	_	_	_	_
+12	(	_	PUNCT	_	_	_	_	_	_
+13	768	_	NUM	_	_	_	_	_	_
+14	)	_	PUNCT	_	_	_	_	_	_
+15	te	_	PART	_	_	_	_	_	_
+16	pawhin	_	CCONJ	_	_	_	_	_	_
+17	February	_	NOUN	_	_	_	_	_	_
+18	1	_	NUM	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	2025	_	NUM	_	_	_	_	_	_
+21	atanga	_	ADP	_	_	_	_	_	_
+22	Online	_	NOUN	_	_	_	_	_	_
+23	Registration	_	NOUN	_	_	_	_	_	_
+24	ti	_	VERB	_	_	_	_	_	_
+25	a	_	PART	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	Digitized	_	NOUN	_	_	_	_	_	_
+28	Certificate	_	NOUN	_	_	_	_	_	_
+29	an	_	PRON	_	_	_	_	_	_
+30	pek	_	VERB	_	_	_	_	_	_
+31	chhuah	_	VERB	_	_	_	_	_	_
+32	tan	_	VERB	_	_	_	_	_	_
+33	theih	_	VERB	_	_	_	_	_	_
+34	nan	_	ADP	_	_	_	_	_	_
+35	Training	_	NOUN	_	_	_	_	_	_
+36	hi	_	DET	_	_	_	_	_	_
+37	nei	_	VERB	_	_	_	_	_	_
+38	an	_	PRON	_	_	_	_	_	_
+39	nih	_	VERB	_	_	_	_	_	_
+40	thu	_	NOUN	_	_	_	_	_	_
+41	tarlan	_	VERB	_	_	_	_	_	_
+42	a	_	AUX	_	_	_	_	_	_
+43	ni	_	VERB	_	_	_	_	_	_
+44	bawk	_	ADV	_	_	_	_	_	_
+45	.	_	PUNCT	_	_	_	_	_	_
+
